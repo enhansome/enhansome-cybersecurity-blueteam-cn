@@ -38,7 +38,7 @@
             "last_commit": "2026-07-25T23:09:10Z",
             "owner": "latchset",
             "repo": "clevis",
-            "stars": 1241
+            "stars": 1242
           }
         }
       ],
@@ -86,7 +86,7 @@
             "last_commit": "2026-02-12T06:21:36Z",
             "owner": "oasis-open",
             "repo": "cti-python-stix2",
-            "stars": 432
+            "stars": 433
           }
         },
         {
@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:36:58Z",
+            "last_commit": "2026-08-13T23:17:07Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19069
+            "stars": 19075
           }
         },
         {
@@ -173,10 +173,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T14:21:37Z",
+            "last_commit": "2026-08-13T15:06:27Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14577
+            "stars": 14581
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13369
+            "stars": 13371
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-08-02T02:31:38Z",
             "owner": "JPCERTCC",
             "repo": "LogonTracer",
-            "stars": 3209
+            "stars": 3210
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2026-07-09T23:04:09Z",
             "owner": "jtesta",
             "repo": "ssh-audit",
-            "stars": 4258
+            "stars": 4257
           }
         },
         {
@@ -436,7 +436,7 @@
             "last_commit": "2025-11-05T13:11:51Z",
             "owner": "AltraMayor",
             "repo": "gatekeeper",
-            "stars": 1631
+            "stars": 1630
           }
         }
       ],
@@ -456,7 +456,7 @@
             "last_commit": "2026-08-04T09:42:12Z",
             "owner": "CrimsonForge-io",
             "repo": "king-phisher",
-            "stars": 2571
+            "stars": 2572
           }
         },
         {
@@ -638,10 +638,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T19:58:31Z",
+            "last_commit": "2026-08-13T19:39:23Z",
             "owner": "stamparm",
             "repo": "maltrail",
-            "stars": 8578
+            "stars": 8580
           }
         },
         {
@@ -652,7 +652,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T21:00:00Z",
+            "last_commit": "2026-08-13T21:21:11Z",
             "owner": "arkime",
             "repo": "arkime",
             "stars": 7444
@@ -680,7 +680,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T20:28:24Z",
+            "last_commit": "2026-08-13T16:55:59Z",
             "owner": "tenzir",
             "repo": "tenzir",
             "stars": 754
@@ -697,7 +697,7 @@
             "last_commit": "2026-06-17T18:58:01Z",
             "owner": "activecm",
             "repo": "rita",
-            "stars": 621
+            "stars": 622
           }
         },
         {
@@ -773,7 +773,7 @@
             "last_commit": "2024-06-01T14:05:15Z",
             "owner": "Cyb3rWard0g",
             "repo": "HELK",
-            "stars": 3931
+            "stars": 3930
           }
         },
         {
@@ -1117,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:49.677Z",
+    "last_updated": "2026-08-13T23:21:45.882Z",
     "original_repository": "satan1a/awesome-cybersecurity-blueteam-cn",
     "original_repository_sha": "a09f2049d4e51f9bb529d8c0c5aea17314a7e1af",
     "enhanced_repository": "enhansome/enhansome-cybersecurity-blueteam-cn",
