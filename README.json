@@ -24,7 +24,7 @@
             "last_commit": "2024-05-07T12:53:36Z",
             "owner": "USArmyResearchLab",
             "repo": "Dshell",
-            "stars": 5490
+            "stars": 5491
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2026-02-12T06:21:36Z",
             "owner": "oasis-open",
             "repo": "cti-python-stix2",
-            "stars": 433
+            "stars": 434
           }
         },
         {
@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T22:31:05Z",
+            "last_commit": "2026-08-15T05:51:27Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19085
+            "stars": 19089
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-14T13:45:17Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14586
+            "stars": 14589
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7788
+            "stars": 7789
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-11T23:04:19Z",
             "owner": "quay",
             "repo": "clair",
-            "stars": 11047
+            "stars": 11046
           }
         },
         {
@@ -484,7 +484,7 @@
             "last_commit": "2026-07-29T20:37:23Z",
             "owner": "SSLMate",
             "repo": "certspotter",
-            "stars": 1163
+            "stars": 1164
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2025-09-23T10:20:43Z",
             "owner": "NextronSystems",
             "repo": "APTSimulator",
-            "stars": 2761
+            "stars": 2762
           }
         },
         {
@@ -638,10 +638,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T20:58:39Z",
+            "last_commit": "2026-08-15T21:37:25Z",
             "owner": "stamparm",
             "repo": "maltrail",
-            "stars": 8581
+            "stars": 8582
           }
         },
         {
@@ -652,10 +652,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T21:31:08Z",
+            "last_commit": "2026-08-15T22:30:22Z",
             "owner": "arkime",
             "repo": "arkime",
-            "stars": 7446
+            "stars": 7447
           }
         },
         {
@@ -759,7 +759,7 @@
             "last_commit": "2026-05-12T12:52:29Z",
             "owner": "google",
             "repo": "grr",
-            "stars": 5086
+            "stars": 5087
           }
         },
         {
@@ -933,7 +933,7 @@
             "last_commit": "2020-12-17T19:43:04Z",
             "owner": "ANSSI-FR",
             "repo": "AD-control-paths",
-            "stars": 678
+            "stars": 677
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2018-03-16T15:59:41Z",
             "owner": "linuz",
             "repo": "Sticky-Keys-Slayer",
-            "stars": 350
+            "stars": 347
           }
         },
         {
@@ -1117,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:55:57.154Z",
+    "last_updated": "2026-08-15T22:54:42.239Z",
     "original_repository": "satan1a/awesome-cybersecurity-blueteam-cn",
     "original_repository_sha": "a09f2049d4e51f9bb529d8c0c5aea17314a7e1af",
     "enhanced_repository": "enhansome/enhansome-cybersecurity-blueteam-cn",
