@@ -24,7 +24,7 @@
             "last_commit": "2024-05-07T12:53:36Z",
             "owner": "USArmyResearchLab",
             "repo": "Dshell",
-            "stars": 5490
+            "stars": 5491
           }
         },
         {
@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T05:51:27Z",
+            "last_commit": "2026-08-17T22:49:34Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19094
+            "stars": 19102
           }
         },
         {
@@ -173,10 +173,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:45:17Z",
+            "last_commit": "2026-08-17T18:02:29Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14595
+            "stars": 14610
           }
         },
         {
@@ -190,7 +190,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7790
+            "stars": 7793
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13373
+            "stars": 13375
           }
         },
         {
@@ -238,7 +238,7 @@
             "last_commit": "2026-08-11T23:04:19Z",
             "owner": "quay",
             "repo": "clair",
-            "stars": 11047
+            "stars": 11050
           }
         },
         {
@@ -422,7 +422,7 @@
             "last_commit": "2026-07-09T23:04:09Z",
             "owner": "jtesta",
             "repo": "ssh-audit",
-            "stars": 4261
+            "stars": 4262
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2025-09-23T10:20:43Z",
             "owner": "NextronSystems",
             "repo": "APTSimulator",
-            "stars": 2761
+            "stars": 2763
           }
         },
         {
@@ -616,7 +616,7 @@
             "last_commit": "2020-05-27T15:00:56Z",
             "owner": "TryCatchHCF",
             "repo": "DumpsterFire",
-            "stars": 1039
+            "stars": 1038
           }
         }
       ],
@@ -638,7 +638,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T19:37:48Z",
+            "last_commit": "2026-08-17T19:27:50Z",
             "owner": "stamparm",
             "repo": "maltrail",
             "stars": 8581
@@ -652,10 +652,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T22:52:25Z",
+            "last_commit": "2026-08-17T18:48:54Z",
             "owner": "arkime",
             "repo": "arkime",
-            "stars": 7447
+            "stars": 7446
           }
         },
         {
@@ -680,10 +680,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T13:55:43Z",
+            "last_commit": "2026-08-17T19:34:55Z",
             "owner": "tenzir",
             "repo": "tenzir",
-            "stars": 754
+            "stars": 755
           }
         },
         {
@@ -1117,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T22:53:34.774Z",
+    "last_updated": "2026-08-17T22:56:04.223Z",
     "original_repository": "satan1a/awesome-cybersecurity-blueteam-cn",
     "original_repository_sha": "a09f2049d4e51f9bb529d8c0c5aea17314a7e1af",
     "enhanced_repository": "enhansome/enhansome-cybersecurity-blueteam-cn",
