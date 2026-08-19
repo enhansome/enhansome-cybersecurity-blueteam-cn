@@ -1,152 +1,159 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "🚀在线文档请查看：https://blue.y1ng.org"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DShell",
+              "description": "用Python编写网络取证分析框架，支持扩展，可快速开发插件来分析捕获的网络数据包",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28135622,
+                "language": "Python",
+                "last_commit": "2024-05-07T12:53:36Z",
+                "owner": "USArmyResearchLab",
+                "repo": "Dshell",
+                "stars": 5491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clevis",
+              "description": "对于自动解密的可插入式工具，经常被用做Tang客户端",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47423688,
+                "language": "Shell",
+                "last_commit": "2026-07-25T23:09:10Z",
+                "owner": "latchset",
+                "repo": "clevis",
+                "stars": 1244
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "零碎的"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MultiScanner",
+              "description": "使用Python编写的文件分析框架，支持自动运行相关的工具，汇总输出帮助评估一组带分析的文件",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33875018,
+                "language": "Python",
+                "last_commit": "2019-10-08T14:12:14Z",
+                "owner": "mitre",
+                "repo": "multiscanner",
+                "stars": 620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "censys-python",
+              "description": "对Censys REST API的Python轻量级封装",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43082714,
+                "language": "Python",
+                "last_commit": "2026-07-26T12:51:23Z",
+                "owner": "censys",
+                "repo": "censys-python",
+                "stars": 468
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python-stix2",
+              "description": "用于序列化和反序列化STIX（JSON形式）的Python API，以及一些用于常见任务的高级API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81590907,
+                "language": "Python",
+                "last_commit": "2026-02-12T06:21:36Z",
+                "owner": "oasis-open",
+                "repo": "cti-python-stix2",
+                "stars": 434
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libcrafter",
+              "description": "一个c++的高级库，用于创建和解码网络数据包",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6434669,
+                "language": "Rust",
+                "last_commit": "2026-08-16T02:12:55Z",
+                "owner": "pellegre",
+                "repo": "libcrafter",
+                "stars": 311
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python-sandboxapi",
+              "description": "用于构建恶意软件沙箱集成的最小型、并且长期有效的的Python API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117734039,
+                "language": "Python",
+                "last_commit": "2024-01-31T18:25:07Z",
+                "owner": "pedramamini",
+                "repo": "sandboxapi",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Posh-VirusTotal",
+              "description": "可与VirusTotal.com的API进行交互的PowerShell接口",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15853907,
+                "language": "PowerShell",
+                "last_commit": "2020-01-16T20:05:44Z",
+                "owner": "darkoperator",
+                "repo": "Posh-VirusTotal",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python-dshield",
+              "description": "连接SANS ISC/DShiel API的Python接口",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21389489,
+                "language": "Python",
+                "last_commit": "2023-05-23T06:54:04Z",
+                "owner": "rshipp",
+                "repo": "python-dshield",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "代码库和绑定"
+        }
+      ],
       "title": "自动化工具"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DShell",
-          "description": "用Python编写网络取证分析框架，支持扩展，可快速开发插件来分析捕获的网络数据包",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-07T12:53:36Z",
-            "owner": "USArmyResearchLab",
-            "repo": "Dshell",
-            "stars": 5491
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clevis",
-          "description": "对于自动解密的可插入式工具，经常被用做Tang客户端",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-07-25T23:09:10Z",
-            "owner": "latchset",
-            "repo": "clevis",
-            "stars": 1244
-          }
-        }
-      ],
-      "title": "零碎的"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MultiScanner",
-          "description": "使用Python编写的文件分析框架，支持自动运行相关的工具，汇总输出帮助评估一组带分析的文件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-10-08T14:12:14Z",
-            "owner": "mitre",
-            "repo": "multiscanner",
-            "stars": 620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "censys-python",
-          "description": "对Censys REST API的Python轻量级封装",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-26T12:51:23Z",
-            "owner": "censys",
-            "repo": "censys-python",
-            "stars": 468
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "python-stix2",
-          "description": "用于序列化和反序列化STIX（JSON形式）的Python API，以及一些用于常见任务的高级API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-12T06:21:36Z",
-            "owner": "oasis-open",
-            "repo": "cti-python-stix2",
-            "stars": 434
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "libcrafter",
-          "description": "一个c++的高级库，用于创建和解码网络数据包",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-16T02:12:55Z",
-            "owner": "pellegre",
-            "repo": "libcrafter",
-            "stars": 311
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "python-sandboxapi",
-          "description": "用于构建恶意软件沙箱集成的最小型、并且长期有效的的Python API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-31T18:25:07Z",
-            "owner": "pedramamini",
-            "repo": "sandboxapi",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Posh-VirusTotal",
-          "description": "可与VirusTotal.com的API进行交互的PowerShell接口",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2020-01-16T20:05:44Z",
-            "owner": "darkoperator",
-            "repo": "Posh-VirusTotal",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "python-dshield",
-          "description": "连接SANS ISC/DShiel API的Python接口",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-23T06:54:04Z",
-            "owner": "rshipp",
-            "repo": "python-dshield",
-            "stars": 28
-          }
-        }
-      ],
-      "title": "代码库和绑定"
     },
     {
       "description": "另请参阅：asecure.cloud/tools.",
@@ -158,11 +165,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-18T22:45:29Z",
+            "last_commit": "2026-08-19T07:34:53Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19108
+            "stars": 19113
           }
         },
         {
@@ -172,11 +180,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-18T16:02:23Z",
+            "last_commit": "2026-08-19T11:59:12Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14613
+            "stars": 14620
           }
         },
         {
@@ -186,11 +195,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155376283,
             "language": "Python",
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7794
+            "stars": 7795
           }
         },
         {
@@ -200,6 +210,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 250376894,
             "language": "Dockerfile",
             "last_commit": "2021-09-16T13:46:12Z",
             "owner": "darkbitio",
@@ -220,6 +231,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39160150,
             "language": "Shell",
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
@@ -234,11 +246,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46140633,
             "language": "Go",
             "last_commit": "2026-08-11T23:04:19Z",
             "owner": "quay",
             "repo": "clair",
-            "stars": 11049
+            "stars": 11048
           }
         },
         {
@@ -248,6 +261,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 18495400,
             "language": "Go",
             "last_commit": "2025-11-05T15:44:20Z",
             "owner": "StackExchange",
@@ -268,6 +282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111882253,
             "language": "Python",
             "last_commit": "2026-08-02T02:31:38Z",
             "owner": "JPCERTCC",
@@ -282,131 +297,135 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63271084,
             "language": "Python",
             "last_commit": "2021-07-23T09:00:58Z",
             "owner": "ThreatResponse",
             "repo": "aws_ir",
             "stars": 344
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fast Incident Response (FIR)",
+              "description": "一个网络安全事件管理平台，可以轻松创建，跟踪和报告网络安全事件",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32028167,
+                "language": "JavaScript",
+                "last_commit": "2026-08-07T20:44:18Z",
+                "owner": "certsocietegenerale",
+                "repo": "FIR",
+                "stars": 2029
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "threat_note",
+              "description": "用于方便安全研究人员添加和检索与他们自己研究的相关指标，是一个由Defence Point Security（一个美国的网络安全公司）构建的Web应用程序",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41309236,
+                "language": "HTML",
+                "last_commit": "2023-12-31T20:47:55Z",
+                "owner": "DefensePointSecurity",
+                "repo": "threat_note",
+                "stars": 435
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CIRTKit",
+              "description": "基于Viper构建的、可编写脚本的数字取证和事件响应（Digital Forensics and Incident Response, DFIR）工具包",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44545775,
+                "language": "Python",
+                "last_commit": "2017-04-17T16:43:44Z",
+                "owner": "opensourcesec",
+                "repo": "CIRTKit",
+                "stars": 152
+              }
+            }
+          ],
+          "description": "Incident Response management consoles，事件响应管理平台\n另请参阅 Security Orchestration, Automation, and Response (SOAR).",
+          "node_type": "group",
+          "title": "事件响应管理平台"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OSXAuditor",
+              "description": "一个免费的macOS计算机取证工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10801048,
+                "language": "JavaScript",
+                "last_commit": "2020-07-27T22:34:25Z",
+                "owner": "jipegit",
+                "repo": "OSXAuditor",
+                "stars": 3135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OSXCollector",
+              "description": "适用于macOS的证据收集和分析工具包",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 22615096,
+                "language": "Python",
+                "last_commit": "2019-06-19T15:40:49Z",
+                "owner": "YelpArchive",
+                "repo": "osxcollector",
+                "stars": 1895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ir-rescue",
+              "description": "用于在事件响应期间全面收集主机取证数据的脚本（包括Windows Batch脚本和Unix Bash脚本）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64792339,
+                "language": "Batchfile",
+                "last_commit": "2021-02-21T09:23:23Z",
+                "owner": "diogo-fernan",
+                "repo": "ir-rescue",
+                "stars": 488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Margarita Shotgun",
+              "description": "命令行工具，用于并行的远程内存获取，可自由选择是否与Amazon EC2实例一起使用",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65315497,
+                "language": "Python",
+                "last_commit": "2020-09-22T15:58:11Z",
+                "owner": "ThreatResponse",
+                "repo": "margaritashotgun",
+                "stars": 253
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "事件证据搜集（取证）"
         }
       ],
       "title": "事件响应工具"
-    },
-    {
-      "description": "Incident Response management consoles，事件响应管理平台\n另请参阅 Security Orchestration, Automation, and Response (SOAR).",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fast Incident Response (FIR)",
-          "description": "一个网络安全事件管理平台，可以轻松创建，跟踪和报告网络安全事件",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-07T20:44:18Z",
-            "owner": "certsocietegenerale",
-            "repo": "FIR",
-            "stars": 2029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "threat_note",
-          "description": "用于方便安全研究人员添加和检索与他们自己研究的相关指标，是一个由Defence Point Security（一个美国的网络安全公司）构建的Web应用程序",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2023-12-31T20:47:55Z",
-            "owner": "DefensePointSecurity",
-            "repo": "threat_note",
-            "stars": 435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CIRTKit",
-          "description": "基于Viper构建的、可编写脚本的数字取证和事件响应（Digital Forensics and Incident Response, DFIR）工具包",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-04-17T16:43:44Z",
-            "owner": "opensourcesec",
-            "repo": "CIRTKit",
-            "stars": 152
-          }
-        }
-      ],
-      "title": "事件响应管理平台"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OSXAuditor",
-          "description": "一个免费的macOS计算机取证工具",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-07-27T22:34:25Z",
-            "owner": "jipegit",
-            "repo": "OSXAuditor",
-            "stars": 3135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OSXCollector",
-          "description": "适用于macOS的证据收集和分析工具包",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-06-19T15:40:49Z",
-            "owner": "YelpArchive",
-            "repo": "osxcollector",
-            "stars": 1895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ir-rescue",
-          "description": "用于在事件响应期间全面收集主机取证数据的脚本（包括Windows Batch脚本和Unix Bash脚本）",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Batchfile",
-            "last_commit": "2021-02-21T09:23:23Z",
-            "owner": "diogo-fernan",
-            "repo": "ir-rescue",
-            "stars": 488
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Margarita Shotgun",
-          "description": "命令行工具，用于并行的远程内存获取，可自由选择是否与Amazon EC2实例一起使用",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-22T15:58:11Z",
-            "owner": "ThreatResponse",
-            "repo": "margaritashotgun",
-            "stars": 253
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AutoMacTC",
-          "description": "一个模块化的自动取证分类收集框架，旨在访问macOS上的各种取证工件，进行解析，并以可用的格式化形式展现。",
-          "children": []
-        }
-      ],
-      "title": "事件证据搜集（取证）"
     },
     {
       "description": "Network perimeter defenses",
@@ -418,11 +437,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104118612,
             "language": "Python",
             "last_commit": "2026-07-09T23:04:09Z",
             "owner": "jtesta",
             "repo": "ssh-audit",
-            "stars": 4265
+            "stars": 4266
           }
         },
         {
@@ -432,119 +452,128 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62745741,
             "language": "C",
             "last_commit": "2025-11-05T13:11:51Z",
             "owner": "AltraMayor",
             "repo": "gatekeeper",
-            "stars": 1629
+            "stars": 1630
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "King Phisher",
+              "description": "通过模拟真实的网络钓鱼攻击来测试和提高用户意识的工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15592447,
+                "language": "Python",
+                "last_commit": "2026-08-04T09:42:12Z",
+                "owner": "CrimsonForge-io",
+                "repo": "king-phisher",
+                "stars": 2576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phishing_catcher",
+              "description": "使用CertStream服务在证书透明日志(CTL)中通过域名监视可疑TLS证书的可配置脚本",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109819521,
+                "language": "Python",
+                "last_commit": "2024-08-13T22:18:01Z",
+                "owner": "x0rz",
+                "repo": "phishing_catcher",
+                "stars": 1817
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CertSpotter",
+              "description": "来自SSLMate的证书透明日志监视器，当你的某个域被颁发SSL/TLS证书时，该监视器会发出警报",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64409269,
+                "language": "Go",
+                "last_commit": "2026-07-29T20:37:23Z",
+                "owner": "SSLMate",
+                "repo": "certspotter",
+                "stars": 1166
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swordphish",
+              "description": "该平台可用于创建和管理（伪造）网络钓鱼活动，目的是训练目标识别可疑邮件的能力",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155852557,
+                "language": "Python",
+                "last_commit": "2024-09-22T12:24:25Z",
+                "owner": "societe-generale",
+                "repo": "swordphish-awareness",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Phishing Intelligence Engine (PIE)",
+              "description": "有助于检测和响应网络钓鱼攻击的框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109992079,
+                "language": "PowerShell",
+                "last_commit": "2020-04-13T16:08:07Z",
+                "owner": "LogRhythm-Labs",
+                "repo": "PIE",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mailspoof",
+              "description": "可用与扫描SPF和DMARC记录来查找可能造成电子邮件欺骗的问题",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160101861,
+                "language": "Python",
+                "last_commit": "2022-12-08T01:28:02Z",
+                "owner": "serain",
+                "repo": "mailspoof",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NotifySecurity",
+              "description": "Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件。",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 156724757,
+                "language": "C#",
+                "last_commit": "2022-09-01T00:40:01Z",
+                "owner": "certsocietegenerale",
+                "repo": "NotifySecurity",
+                "stars": 132
+              }
+            }
+          ],
+          "description": "另请参阅awesome-pentest § Social Engineering Tools",
+          "node_type": "group",
+          "title": "网络钓鱼意识和报告"
         }
       ],
       "title": "网络外围防御"
-    },
-    {
-      "description": "另请参阅awesome-pentest § Social Engineering Tools",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "King Phisher",
-          "description": "通过模拟真实的网络钓鱼攻击来测试和提高用户意识的工具",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T09:42:12Z",
-            "owner": "CrimsonForge-io",
-            "repo": "king-phisher",
-            "stars": 2576
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "phishing_catcher",
-          "description": "使用CertStream服务在证书透明日志(CTL)中通过域名监视可疑TLS证书的可配置脚本",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-13T22:18:01Z",
-            "owner": "x0rz",
-            "repo": "phishing_catcher",
-            "stars": 1817
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CertSpotter",
-          "description": "来自SSLMate的证书透明日志监视器，当你的某个域被颁发SSL/TLS证书时，该监视器会发出警报",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-29T20:37:23Z",
-            "owner": "SSLMate",
-            "repo": "certspotter",
-            "stars": 1166
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swordphish",
-          "description": "该平台可用于创建和管理（伪造）网络钓鱼活动，目的是训练目标识别可疑邮件的能力",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-09-22T12:24:25Z",
-            "owner": "societe-generale",
-            "repo": "swordphish-awareness",
-            "stars": 226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Phishing Intelligence Engine (PIE)",
-          "description": "有助于检测和响应网络钓鱼攻击的框架",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2020-04-13T16:08:07Z",
-            "owner": "LogRhythm-Labs",
-            "repo": "PIE",
-            "stars": 179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mailspoof",
-          "description": "可用与扫描SPF和DMARC记录来查找可能造成电子邮件欺骗的问题",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-08T01:28:02Z",
-            "owner": "serain",
-            "repo": "mailspoof",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NotifySecurity",
-          "description": "Outlook加载项，用于帮助您的用户向安全团队报告可疑电子邮件。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2022-09-01T00:40:01Z",
-            "owner": "certsocietegenerale",
-            "repo": "NotifySecurity",
-            "stars": 132
-          }
-        }
-      ],
-      "title": "网络钓鱼意识和报告"
     },
     {
       "description": "Preparedness training and wargaming，备战训练及演习。也同样被称为adversary emulation和threat simulation之类。此处使用大陆地区较为常见的说法：攻防演练。",
@@ -556,6 +585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120097644,
             "language": "Batchfile",
             "last_commit": "2025-09-23T10:20:43Z",
             "owner": "NextronSystems",
@@ -570,6 +600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116955127,
             "language": "Go",
             "last_commit": "2024-04-04T11:25:53Z",
             "owner": "alphasoc",
@@ -584,6 +615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125263758,
             "language": null,
             "last_commit": "2025-01-22T10:50:09Z",
             "owner": "redhuntlabs",
@@ -598,6 +630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109185631,
             "language": "Python",
             "last_commit": "2019-04-01T06:34:25Z",
             "owner": "uber-common",
@@ -612,6 +645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105951361,
             "language": "Python",
             "last_commit": "2020-05-27T15:00:56Z",
             "owner": "TryCatchHCF",
@@ -623,259 +657,279 @@
       "title": "攻防演练"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Maltrail",
+              "description": "一个恶意网络流量检测系统",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27561102,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:15:01Z",
+                "owner": "stamparm",
+                "repo": "maltrail",
+                "stars": 8583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Moloch",
+              "description": "可扩展当前的安全基础架构，以标准的PCAP格式存储和索引网络流量，从而实现快速的索引访问",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4927517,
+                "language": "C",
+                "last_commit": "2026-08-18T21:36:17Z",
+                "owner": "arkime",
+                "repo": "arkime",
+                "stars": 7447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stenographer",
+              "description": "可进行全包捕获的实用程序，用于将数据包缓冲到磁盘以进行入侵检测和事件响应",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 25178571,
+                "language": "Go",
+                "last_commit": "2021-07-26T14:40:13Z",
+                "owner": "google",
+                "repo": "stenographer",
+                "stars": 1795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VAST",
+              "description": "一个用于数据驱动的安全调查的免费开源网络遥测引擎",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 932314,
+                "language": "C++",
+                "last_commit": "2026-08-19T11:40:44Z",
+                "owner": "tenzir",
+                "repo": "tenzir",
+                "stars": 756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Real Intelligence Threat Analysis (RITA)",
+              "description": "是一套用于网络流量分析的开源框架，可吸收Zeek日志并检测信标，DNS隧道等",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 821147194,
+                "language": "Go",
+                "last_commit": "2026-06-17T18:58:01Z",
+                "owner": "activecm",
+                "repo": "rita",
+                "stars": 623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChopShop",
+              "description": "一个MITER开发的框架，可帮助分析人员创建和执行基于APT工具及Pynids的解码器和检测器",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 5860398,
+                "language": "Python",
+                "last_commit": "2022-12-19T21:28:41Z",
+                "owner": "MITRECND",
+                "repo": "chopshop",
+                "stars": 496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Respounder",
+              "description": "可检测网络上是否存在使用Responder来进行LLMNR / NBT-NS / mDNS投毒的情况",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120255758,
+                "language": "Go",
+                "last_commit": "2019-06-15T07:51:13Z",
+                "owner": "codeexpress",
+                "repo": "respounder",
+                "stars": 323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpoofSpotter",
+              "description": "捕获被欺骗的NetBIOS名称服务（NBNS）响应，并发出电子邮件或日志文件形式的警告",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12598027,
+                "language": "Python",
+                "last_commit": "2018-06-13T03:51:53Z",
+                "owner": "NetSPI",
+                "repo": "SpoofSpotter",
+                "stars": 51
+              }
+            }
+          ],
+          "description": "Network Security Monitoring (NSM)\n另请参阅：awesome-pcaptools.",
+          "node_type": "group",
+          "title": "网络安全监控（NSM）"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GRR Rapid Response",
+              "description": "一个专注于远程实时取证的事件响应框架，该组件由安装在资产上的Python代理和基于Python的服务器组成基础结构，使分析师能够快速分类攻击并进行远程分析",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14909673,
+                "language": "Python",
+                "last_commit": "2026-05-12T12:52:29Z",
+                "owner": "google",
+                "repo": "grr",
+                "stars": 5087
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hunting ELK (HELK)",
+              "description": "基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁狩猎套件，并具有包括Jupyter Notebook在内的各种内置集成分析功能",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84987850,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-01T14:05:15Z",
+                "owner": "Cyb3rWard0g",
+                "repo": "HELK",
+                "stars": 3930
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepBlueCLI",
+              "description": "用于通过Windows事件日志进行寻线分组的PowerShell模块",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68729413,
+                "language": "PowerShell",
+                "last_commit": "2023-10-14T17:06:57Z",
+                "owner": "sans-blue-team",
+                "repo": "DeepBlueCLI",
+                "stars": 2427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MozDef",
+              "description": "用于自动执行安全事件处理流程，并促进事件处理程序的实时活动",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 16940917,
+                "language": "Python",
+                "last_commit": "2021-11-02T17:20:27Z",
+                "owner": "mozilla",
+                "repo": "MozDef",
+                "stars": 2161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PowerForensics",
+              "description": "基于PowerShell，用于实时硬盘取证分析的多合一平台",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31820011,
+                "language": "C#",
+                "last_commit": "2023-11-16T10:31:37Z",
+                "owner": "Invoke-IR",
+                "repo": "PowerForensics",
+                "stars": 1442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CimSweep",
+              "description": "基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和Hunting操作",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50709748,
+                "language": "PowerShell",
+                "last_commit": "2019-08-19T12:50:44Z",
+                "owner": "mattifestation",
+                "repo": "CimSweep",
+                "stars": 656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PSRecon",
+              "description": "一个类似PSHunt的工具，可用于分析远程的Windows系统，该工具还会生成其发现信息的独立HTML报告",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40107037,
+                "language": "PowerShell",
+                "last_commit": "2017-07-29T15:03:04Z",
+                "owner": "gfoss",
+                "repo": "PSRecon",
+                "stars": 494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PSHunt",
+              "description": "一个PowerShell模块，设计用于扫描远程端点以发现威胁的痕迹，或用于调查，获取与系统状态有关的更多信息",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 65433467,
+                "language": "PowerShell",
+                "last_commit": "2016-09-21T00:31:47Z",
+                "owner": "Infocyte",
+                "repo": "PSHunt",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rastrea2r",
+              "description": "一个用于同时在众多端点上对可疑IOC进行分类，并与防病毒控制台集成的跨平台工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131747684,
+                "language": "Python",
+                "last_commit": "2021-08-01T11:12:02Z",
+                "owner": "rastrea2r",
+                "repo": "rastrea2r",
+                "stars": 238
+              }
+            }
+          ],
+          "description": "Threat hunting，也被称为hunt teaming和threat detection。\n另请参阅：awesome-threat-detection.",
+          "node_type": "group",
+          "title": "威胁狩猎"
+        }
+      ],
       "title": "安全监控"
-    },
-    {
-      "description": "Network Security Monitoring (NSM)\n另请参阅：awesome-pcaptools.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Maltrail",
-          "description": "一个恶意网络流量检测系统",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T20:55:08Z",
-            "owner": "stamparm",
-            "repo": "maltrail",
-            "stars": 8582
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Moloch",
-          "description": "可扩展当前的安全基础架构，以标准的PCAP格式存储和索引网络流量，从而实现快速的索引访问",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T21:36:17Z",
-            "owner": "arkime",
-            "repo": "arkime",
-            "stars": 7447
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stenographer",
-          "description": "可进行全包捕获的实用程序，用于将数据包缓冲到磁盘以进行入侵检测和事件响应",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2021-07-26T14:40:13Z",
-            "owner": "google",
-            "repo": "stenographer",
-            "stars": 1795
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VAST",
-          "description": "一个用于数据驱动的安全调查的免费开源网络遥测引擎",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T18:07:33Z",
-            "owner": "tenzir",
-            "repo": "tenzir",
-            "stars": 756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Real Intelligence Threat Analysis (RITA)",
-          "description": "是一套用于网络流量分析的开源框架，可吸收Zeek日志并检测信标，DNS隧道等",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-06-17T18:58:01Z",
-            "owner": "activecm",
-            "repo": "rita",
-            "stars": 624
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChopShop",
-          "description": "一个MITER开发的框架，可帮助分析人员创建和执行基于APT工具及Pynids的解码器和检测器",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-12-19T21:28:41Z",
-            "owner": "MITRECND",
-            "repo": "chopshop",
-            "stars": 496
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Respounder",
-          "description": "可检测网络上是否存在使用Responder来进行LLMNR / NBT-NS / mDNS投毒的情况",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-06-15T07:51:13Z",
-            "owner": "codeexpress",
-            "repo": "respounder",
-            "stars": 323
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpoofSpotter",
-          "description": "捕获被欺骗的NetBIOS名称服务（NBNS）响应，并发出电子邮件或日志文件形式的警告",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-06-13T03:51:53Z",
-            "owner": "NetSPI",
-            "repo": "SpoofSpotter",
-            "stars": 51
-          }
-        }
-      ],
-      "title": "网络安全监控（NSM）"
-    },
-    {
-      "description": "Threat hunting，也被称为hunt teaming和threat detection。\n另请参阅：awesome-threat-detection.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GRR Rapid Response",
-          "description": "一个专注于远程实时取证的事件响应框架，该组件由安装在资产上的Python代理和基于Python的服务器组成基础结构，使分析师能够快速分类攻击并进行远程分析",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-12T12:52:29Z",
-            "owner": "google",
-            "repo": "grr",
-            "stars": 5087
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hunting ELK (HELK)",
-          "description": "基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁狩猎套件，并具有包括Jupyter Notebook在内的各种内置集成分析功能",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-06-01T14:05:15Z",
-            "owner": "Cyb3rWard0g",
-            "repo": "HELK",
-            "stars": 3930
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepBlueCLI",
-          "description": "用于通过Windows事件日志进行寻线分组的PowerShell模块",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2023-10-14T17:06:57Z",
-            "owner": "sans-blue-team",
-            "repo": "DeepBlueCLI",
-            "stars": 2427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MozDef",
-          "description": "用于自动执行安全事件处理流程，并促进事件处理程序的实时活动",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-11-02T17:20:27Z",
-            "owner": "mozilla",
-            "repo": "MozDef",
-            "stars": 2161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PowerForensics",
-          "description": "基于PowerShell，用于实时硬盘取证分析的多合一平台",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-11-16T10:31:37Z",
-            "owner": "Invoke-IR",
-            "repo": "PowerForensics",
-            "stars": 1442
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CimSweep",
-          "description": "基于CIM / WMI的工具套件，可在所有Windows版本中进行远程事件响应和Hunting操作",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2019-08-19T12:50:44Z",
-            "owner": "mattifestation",
-            "repo": "CimSweep",
-            "stars": 656
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PSRecon",
-          "description": "一个类似PSHunt的工具，可用于分析远程的Windows系统，该工具还会生成其发现信息的独立HTML报告",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2017-07-29T15:03:04Z",
-            "owner": "gfoss",
-            "repo": "PSRecon",
-            "stars": 494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PSHunt",
-          "description": "一个PowerShell模块，设计用于扫描远程端点以发现威胁的痕迹，或用于调查，获取与系统状态有关的更多信息",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PowerShell",
-            "last_commit": "2016-09-21T00:31:47Z",
-            "owner": "Infocyte",
-            "repo": "PSHunt",
-            "stars": 293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rastrea2r",
-          "description": "一个用于同时在众多端点上对可疑IOC进行分类，并与防病毒控制台集成的跨平台工具",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-01T11:12:02Z",
-            "owner": "rastrea2r",
-            "repo": "rastrea2r",
-            "stars": 238
-          }
-        }
-      ],
-      "title": "威胁狩猎"
     },
     {
       "description": "Threat intelligence\n另请参阅：awesome-threat-intelligence.",
@@ -887,6 +941,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14262436,
             "language": "Python",
             "last_commit": "2023-06-07T13:49:30Z",
             "owner": "viper-framework",
@@ -901,6 +956,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47986278,
             "language": "Java",
             "last_commit": "2020-02-24T16:24:07Z",
             "owner": "nsacyber",
@@ -915,6 +971,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102033255,
             "language": "Python",
             "last_commit": "2026-05-26T15:01:24Z",
             "owner": "pedramamini",
@@ -929,6 +986,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21575698,
             "language": "C",
             "last_commit": "2020-12-17T19:43:04Z",
             "owner": "ANSSI-FR",
@@ -943,6 +1001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17064089,
             "language": "Python",
             "last_commit": "2019-03-14T01:32:24Z",
             "owner": "mlsecproject",
@@ -957,6 +1016,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17264589,
             "language": "Python",
             "last_commit": "2018-01-23T17:50:23Z",
             "owner": "opensourcesec",
@@ -971,6 +1031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90075123,
             "language": "Python",
             "last_commit": "2018-08-22T19:22:36Z",
             "owner": "hadojae",
@@ -991,6 +1052,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25009012,
             "language": "Objective-C++",
             "last_commit": "2025-02-05T13:23:36Z",
             "owner": "google",
@@ -1005,6 +1067,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125603504,
             "language": "Python",
             "last_commit": "2025-02-24T07:31:58Z",
             "owner": "alichtman",
@@ -1019,6 +1082,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28251562,
             "language": "Shell",
             "last_commit": "2021-11-24T02:47:52Z",
             "owner": "essandess",
@@ -1039,6 +1103,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78663120,
             "language": "Go",
             "last_commit": "2025-08-10T15:21:12Z",
             "owner": "hardentools",
@@ -1053,6 +1118,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52628378,
             "language": "HTML",
             "last_commit": "2022-12-24T16:24:21Z",
             "owner": "nsacyber",
@@ -1067,6 +1133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65097384,
             "language": "Shell",
             "last_commit": "2018-03-16T15:59:41Z",
             "owner": "linuz",
@@ -1081,6 +1148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65037781,
             "language": "PowerShell",
             "last_commit": "2018-02-28T22:25:46Z",
             "owner": "realparisi",
@@ -1095,6 +1163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104345910,
             "language": "Go",
             "last_commit": "2017-10-11T07:15:40Z",
             "owner": "sensepost",
@@ -1104,21 +1173,12 @@
         }
       ],
       "title": "基于Windows的防护"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.\n本项工作在知识共享（CC协议4.0）下进行。",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "[1] Terraform：简介，sparkdev，https://www.cnblogs.com/sparkdev/p/10052310.html\n[2] Internet 安全中心 (CIS) 基准, Robert Mazzoli，https://docs.microsoft.com/zh-cn/microsoft-365/compliance/offering-cis-benchmark?view=o365-worldwide\n[3] 网络蜜罐系统是什么?, 课课家教育 , http://www.kokojia.com/article/24017.html\n[4] HowTo: Set a Warning Message (Banner) in SSH, admin, https://www.shellhacks.com/setup-warning-message-banner-ssh/\n[5] 36氪首发 | 聚焦零信任安全，「虎符网络」完成近千万元天使轮融资, 真梓 , https://36kr.com/p/771205828523273\n[6] Fwknop：单包授权与端口试探工具, 周俊辉, https://cloud.tencent.com/developer/article/1578194\n[7] Suricata IDS 入门 — 规则详解, al0ne , https://www.secpulse.com/archives/71603.html\n[8] 渗透测试：数十款重要工具介绍, E安全, https://www.secrss.com/articles/2409\n[9] Vulnerability fatigue – why you need to get on top of patch management, https://orangecyberdefense.com/global/blog/threat/vulnerability-fatigue-why-you-need-to-get-on-top-of-patch-management/",
-      "items": [],
-      "title": "References"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:56:41.224Z",
+    "last_updated": "2026-08-19T12:24:50.974Z",
     "original_repository": "satan1a/awesome-cybersecurity-blueteam-cn",
+    "original_repository_id": 286225736,
     "original_repository_sha": "a09f2049d4e51f9bb529d8c0c5aea17314a7e1af",
     "enhanced_repository": "enhansome/enhansome-cybersecurity-blueteam-cn",
     "enhanced_repository_description": null,
