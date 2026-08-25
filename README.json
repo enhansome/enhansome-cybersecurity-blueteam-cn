@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-25T23:09:10Z",
                 "owner": "latchset",
                 "repo": "clevis",
-                "stars": 1244
+                "stars": 1245
               }
             }
           ],
@@ -167,10 +167,10 @@
             "archived": false,
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-24T22:57:30Z",
+            "last_commit": "2026-08-25T04:05:18Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19148
+            "stars": 19152
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-24T19:26:07Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14668
+            "stars": 14671
           }
         },
         {
@@ -236,7 +236,7 @@
             "last_commit": "2024-05-11T17:48:07Z",
             "owner": "devsecops",
             "repo": "awesome-devsecops",
-            "stars": 5460
+            "stars": 5461
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10532
+            "stars": 10533
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2026-08-20T13:20:14Z",
             "owner": "thinkst",
             "repo": "canarytokens",
-            "stars": 2135
+            "stars": 2136
           }
         },
         {
@@ -636,7 +636,7 @@
                 "last_commit": "2024-08-13T22:18:01Z",
                 "owner": "x0rz",
                 "repo": "phishing_catcher",
-                "stars": 1819
+                "stars": 1820
               }
             },
             {
@@ -857,7 +857,7 @@
                 "last_commit": "2026-08-24T18:00:25Z",
                 "owner": "stamparm",
                 "repo": "maltrail",
-                "stars": 8586
+                "stars": 8587
               }
             },
             {
@@ -984,7 +984,7 @@
                 "last_commit": "2026-08-19T09:58:40Z",
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 34981
+                "stars": 34984
               }
             },
             {
@@ -999,7 +999,7 @@
                 "last_commit": "2026-08-19T18:14:44Z",
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23514
+                "stars": 23518
               }
             }
           ],
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10570
+            "stars": 10571
           }
         },
         {
@@ -1277,7 +1277,7 @@
         },
         {
           "node_type": "item",
-          "title": "DATA",
+          "title": "hadojae/DATA",
           "description": "用于网络钓鱼凭据分析和自动化的工具，可以直接接收可疑网络钓鱼URL，或在观察到的包含此类URL的网络流量时触发",
           "children": [],
           "repo_info": {
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:57:45.550Z",
+    "last_updated": "2026-08-25T06:13:14.353Z",
     "original_repository": "satan1a/awesome-cybersecurity-blueteam-cn",
     "original_repository_id": 286225736,
     "original_repository_sha": "a09f2049d4e51f9bb529d8c0c5aea17314a7e1af",
