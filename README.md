@@ -61,7 +61,7 @@
 ### 零碎的
 
 * [DShell](https://github.com/USArmyResearchLab/Dshell) ⭐ 5,492 | 🐛 4 | 🌐 Python | 📅 2024-05-07 - 用Python编写网络取证分析框架，支持扩展，可快速开发插件来分析捕获的网络数据包
-* [Clevis](https://github.com/latchset/clevis) ⭐ 1,246 | 🐛 159 | 🌐 Shell | 📅 2026-07-25 - 对于自动解密的可插入式工具，经常被用做[Tang](https://github.com/latchset/tang) ⭐ 723 | 🐛 41 | 🌐 C | 📅 2025-03-06客户端
+* [Clevis](https://github.com/latchset/clevis) ⭐ 1,246 | 🐛 159 | 🌐 Shell | 📅 2026-07-25 - 对于自动解密的可插入式工具，经常被用做[Tang](https://github.com/latchset/tang) ⭐ 724 | 🐛 41 | 🌐 C | 📅 2025-03-06客户端
 * [Ansible Lockdown](https://ansiblelockdown.io/) - 以信息安全为主题的Ansible（运维工具）规则集合。经过精心地审核，并且维护积极
 * [Dev-Sec.io](https://dev-sec.io/) - 服务器增强框架，提供各种基准安全配置的Ansible，Chef和Puppet实现
 * [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - 支持脚本编写的PDF文件分析器
@@ -90,9 +90,9 @@ SOAR, Security Orchestration, Automation and Response, 安全编排自动化与�
 
 另请参阅：[asecure.cloud/tools](https://asecure.cloud/tools/).
 
-* [gVisor](https://github.com/google/gvisor) ⭐ 19,164 | 🐛 836 | 🌐 Go | 📅 2026-08-27 - 用Go编写的应用程序内核，它实现Linux系统表面的很大一部分，用以在应用程序和主机内核之间提供隔离边界
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,688 | 🐛 285 | 🌐 Python | 📅 2026-08-26 - 基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和增强
-* [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,801 | 🐛 296 | 🌐 Python | 📅 2025-09-23 - 开源的多云安全审核工具，可用于评估云环境的安全状态
+* [gVisor](https://github.com/google/gvisor) ⭐ 19,168 | 🐛 829 | 🌐 Go | 📅 2026-08-27 - 用Go编写的应用程序内核，它实现Linux系统表面的很大一部分，用以在应用程序和主机内核之间提供隔离边界
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,692 | 🐛 279 | 🌐 Python | 📅 2026-08-27 - 基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和增强
+* [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,802 | 🐛 296 | 🌐 Python | 📅 2025-09-23 - 开源的多云安全审核工具，可用于评估云环境的安全状态
   * 补充：Muticloud，多云，是指在单个异构架构中使用多个[云计算](https://en.wikipedia.org/wiki/Cloud_computing)和[存储](https://en.wikipedia.org/wiki/Cloud_storage)服务
 * [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) ⚠️ Archived - 可提供查询和验证托管Kubernetes群集对象以及群集内运行的工作负载/资源的几种与安全性相关的常见设置
 * [Checkov](https://www.checkov.io/) - 对于Terraform（在DevOps实践中，代码即基础设施概念）的静态分析器。可以帮助检测CIS策略违规行为，并防止云安全策略配置错误
@@ -110,11 +110,11 @@ COMSEC, Communications Security, 通讯安全
 
 ## DevSecOps
 
-另请参阅：[awesome-devsecops](https://github.com/devsecops/awesome-devsecops) ⭐ 5,461 | 🐛 82 | 📅 2024-05-11
+另请参阅：[awesome-devsecops](https://github.com/devsecops/awesome-devsecops) ⭐ 5,460 | 🐛 82 | 📅 2024-05-11
 
 补充：DevOps旨在加强开发人员，IT运营和安全性之间的关系。
 
-* [Git Secrets](https://github.com/awslabs/git-secrets) ⭐ 13,381 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - 用于防止用户提交密码或其他的敏感信息到Git仓库
+* [Git Secrets](https://github.com/awslabs/git-secrets) ⭐ 13,382 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - 用于防止用户提交密码或其他的敏感信息到Git仓库
 * [Clair](https://github.com/coreos/clair) ⭐ 11,052 | 🐛 59 | 🌐 Go | 📅 2026-08-25 - 静态分析工具，用于探测应用容器镜像（e.g. Docker）中的漏洞
 * [BlackBox](https://github.com/StackExchange/blackbox) ⚠️ Archived - 通过GnuPG技术安全地保存Git/Mercurial/Subversion的密钥，该过程可在空闲时进行
 * [Cilium](https://cilium.io/) - 开源软件，用于透明地保护应用服务和Linux容器化管理平台（e.g. Docker, Kubernetes）之间的网络连接安全
@@ -133,13 +133,13 @@ COMSEC, Communications Security, 通讯安全
 
 ### 模糊测试（Fuzzing）
 
-另请参阅： [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,904 | 🐛 10 | 📅 2024-04-03.
+另请参阅： [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,905 | 🐛 10 | 📅 2024-04-03.
 
 * [FuzzBench](https://google.github.io/fuzzbench/) -  用于根据Google规模的各种实际基准来评估模糊测试器的一项免费服务
 
 ### 策略执行
 
-* [Tang](https://github.com/latchset/tang) ⭐ 723 | 🐛 41 | 🌐 C | 📅 2025-03-06 - 用于将数据绑定到网络状态的服务器。只有当客户端位于特定的（安全的）网络上时才向客户端提供数据
+* [Tang](https://github.com/latchset/tang) ⭐ 724 | 🐛 41 | 🌐 C | 📅 2025-03-06 - 用于将数据绑定到网络状态的服务器。只有当客户端位于特定的（安全的）网络上时才向客户端提供数据
 * [OpenPolicyAgent](https://www.openpolicyagent.org/)  - 用于跨云原生环境进行统一策略控制的一套工具集和框架
 
 ## 蜜罐
@@ -158,7 +158,7 @@ COMSEC, Communications Security, 通讯安全
 
 这种概念类似焦油坑，陷入其中的东西会缓慢地沉入，让对方失去行动力，因此被称为Tarpit(Tar pit, 焦油坑)。
 
-* [Endlessh](https://github.com/skeeto/endlessh) ⭐ 8,542 | 🐛 49 | 🌐 C | 📅 2024-06-03 - 一种SSH tarpit，可以缓慢地发送无休止的SSH banner
+* [Endlessh](https://github.com/skeeto/endlessh) ⭐ 8,544 | 🐛 49 | 🌐 C | 📅 2024-06-03 - 一种SSH tarpit，可以缓慢地发送无休止的SSH banner
 
   * 补充，SSH Banner：即SSH警告横幅，在使用SSH进行交互式会话期间，登录前SSH警告横幅会显示在密码提示之前\[4]，一些法律警告和相关条款
 * [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - 一种响应ARP请求中未使用的IP空间的程序，其伪造机器的外表，非常缓慢地响应其他请求，从而达到减慢扫描程序，蠕虫等速度的目的
@@ -187,7 +187,7 @@ COMSEC, Communications Security, 通讯安全
 
 另请参阅：[awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,353 | 🐛 75 | 📅 2026-07-15.
 
-* [LogonTracer](https://github.com/JPCERTCC/LogonTracer) ⭐ 3,221 | 🐛 21 | 🌐 Python | 📅 2026-08-02 - 可用于可视化分析Windows事件日志来调查恶意的Windows登录
+* [LogonTracer](https://github.com/JPCERTCC/LogonTracer) ⭐ 3,222 | 🐛 21 | 🌐 Python | 📅 2026-08-02 - 可用于可视化分析Windows事件日志来调查恶意的Windows登录
 * [aws\_ir](https://github.com/ThreatResponse/aws_ir) ⭐ 344 | 🐛 14 | 🌐 Python | 📅 2021-07-23 - 通过零信任安全假设来自动化执行事件响应的工具
   * 补充，零安全：本质是以身份为基石的动态访问控制，即以身份为基础，通过动态访问控制技术，以细粒度的应用、接口、数据为核心保护对象，遵循最小权限原则，构筑端到端的身份边界\[5]
 * [Volatility](https://www.volatilityfoundation.org/) - 一套先进的内存取证框架
@@ -198,7 +198,7 @@ Incident Response management consoles，事件响应管理平台
 
 另请参阅 [Security Orchestration, Automation, and Response (SOAR)](#安全编排自动化与响应).
 
-* [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) ⭐ 2,031 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-07 - 一个网络安全事件管理平台，可以轻松创建，跟踪和报告网络安全事件
+* [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) ⭐ 2,032 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-07 - 一个网络安全事件管理平台，可以轻松创建，跟踪和报告网络安全事件
 * [threat\_note](https://github.com/defpoint/threat_note) ⚠️ Archived - 用于方便安全研究人员添加和检索与他们自己研究的相关指标，是一个由[Defence Point Security](https://www.crunchbase.com/organization/defense-point-security)（一个美国的网络安全公司）构建的Web应用程序
   * 注：简单讲，这个平台目前实现的功能是一个便于添加攻击者向量（IoC）的一个笔记应用
 * [CIRTKit](https://github.com/opensourcesec/CIRTKit) ⭐ 152 | 🐛 0 | 🌐 Python | 📅 2017-04-17 - 基于Viper构建的、可编写脚本的数字取证和事件响应（Digital Forensics and Incident Response, DFIR）工具包
@@ -222,7 +222,7 @@ Incident Response management consoles，事件响应管理平台
 
 Network perimeter defenses
 
-* [ssh-audit](https://github.com/jtesta/ssh-audit) ⭐ 4,280 | 🐛 39 | 🌐 Python | 📅 2026-07-09 - 用于快速提出建议来改善SSH服务器安全状况的一个简易工具
+* [ssh-audit](https://github.com/jtesta/ssh-audit) ⭐ 4,282 | 🐛 39 | 🌐 Python | 📅 2026-07-09 - 用于快速提出建议来改善SSH服务器安全状况的一个简易工具
 * [Gatekeeper](https://github.com/AltraMayor/gatekeeper) ⭐ 1,634 | 🐛 96 | 🌐 C | 📅 2025-11-05 - 第一个开源的、用于分布式拒绝服务（DDoS）保护的系统
 * [fwknop](https://www.cipherdyne.org/fwknop/) - 通过防火墙中的单包授权保护端口
   * 补充，单包授权：Single Packet Authorization，SPA。SPA将单个数据包经过加密，不可重放，并通过HMAC进行身份验证，以便在传达到隐藏在防火墙后面的服务\[6]
@@ -280,11 +280,11 @@ Network Security Monitoring (NSM)
 
 另请参阅：[awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,415 | 🐛 14 | 📅 2025-09-03.
 
-* [Maltrail](https://github.com/stamparm/maltrail) ⭐ 8,587 | 🐛 22 | 🌐 Python | 📅 2026-08-26 - 一个恶意网络流量检测系统
+* [Maltrail](https://github.com/stamparm/maltrail) ⭐ 8,586 | 🐛 23 | 🌐 Python | 📅 2026-08-27 - 一个恶意网络流量检测系统
 * [Moloch](https://github.com/aol/moloch) ⭐ 7,459 | 🐛 37 | 🌐 C | 📅 2026-08-26 - 可扩展当前的安全基础架构，以标准的PCAP格式存储和索引网络流量，从而实现快速的索引访问
 * [Stenographer](https://github.com/google/stenographer) ⚠️ Archived - 可进行全包捕获的实用程序，用于将数据包缓冲到磁盘以进行入侵检测和事件响应
-* [VAST](https://github.com/tenzir/vast) ⭐ 757 | 🐛 0 | 🌐 C++ | 📅 2026-08-26 - 一个用于数据驱动的安全调查的免费开源网络遥测引擎
-* [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) ⭐ 627 | 🐛 25 | 🌐 Go | 📅 2026-06-17 - 是一套用于网络流量分析的开源框架，可吸收Zeek日志并检测信标，DNS隧道等
+* [VAST](https://github.com/tenzir/vast) ⭐ 757 | 🐛 0 | 🌐 C++ | 📅 2026-08-27 - 一个用于数据驱动的安全调查的免费开源网络遥测引擎
+* [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) ⭐ 628 | 🐛 25 | 🌐 Go | 📅 2026-06-17 - 是一套用于网络流量分析的开源框架，可吸收Zeek日志并检测信标，DNS隧道等
 * [ChopShop](https://github.com/MITRECND/chopshop) ⚠️ Archived - 一个MITER开发的框架，可帮助分析人员创建和执行基于APT工具及Pynids的解码器和检测器
 * [Respounder](https://github.com/codeexpress/respounder) ⭐ 323 | 🐛 1 | 🌐 Go | 📅 2019-06-15 - 可检测网络上是否存在使用[Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived来进行LLMNR / NBT-NS / mDNS投毒的情况
   * 补充
@@ -331,7 +331,7 @@ Service and performance monitoring
 
 Threat hunting，也被称为*hunt teaming*和*threat detection*。
 
-另请参阅：[awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,710 | 🐛 53 | 📅 2026-01-05.
+另请参阅：[awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,711 | 🐛 53 | 📅 2026-01-05.
 
 * [GRR Rapid Response](https://github.com/google/grr) ⭐ 5,088 | 🐛 191 | 🌐 Python | 📅 2026-05-12 - 一个专注于远程实时取证的事件响应框架，该组件由安装在资产上的Python代理和基于Python的服务器组成基础结构，使分析师能够快速分类攻击并进行远程分析
 * [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,931 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01 - 基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁狩猎套件，并具有包括Jupyter Notebook在内的各种内置集成分析功能
@@ -348,7 +348,7 @@ Threat hunting，也被称为*hunt teaming*和*threat detection*。
 
 Threat intelligence
 
-另请参阅：[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,578 | 🐛 116 | 📅 2026-05-31.
+另请参阅：[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,580 | 🐛 116 | 📅 2026-05-31.
 
 * [Viper](https://github.com/viper-framework/viper) ⚠️ Archived - 二进制分析和管理框架，可轻松组织恶意软件和利用样本
 * [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) ⚠️ Archived - 该工具通过被动映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）以及监督控制和数据采集（SCADA）的态势感知
@@ -366,7 +366,7 @@ Threat intelligence
 
 Tor Onion service defenses
 
-另请参阅：[awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 506 | 🐛 3 | 📅 2023-09-03.
+另请参阅：[awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 507 | 🐛 3 | 📅 2023-09-03.
 
 * [Vanguards](https://github.com/mikeperry-tor/vanguards) ⭐ 247 | 🐛 30 | 🌐 Python | 📅 2024-07-06 - 用于在Onion 3版本防护并发现攻击缓解脚本（打算最终包含在Tor核心中）
 * [OnionBalance](https://onionbalance.readthedocs.io/) - 该工具用于提供Tor网络代理的负载平衡，同时通过消除单个故障点使Onion服务更具弹性和可靠性
