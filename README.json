@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-21T15:42:04Z",
                 "owner": "censys",
                 "repo": "censys-python",
-                "stars": 468
+                "stars": 469
               }
             },
             {
@@ -167,10 +167,10 @@
             "archived": false,
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-25T22:41:41Z",
+            "last_commit": "2026-08-27T02:57:43Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19157
+            "stars": 19164
           }
         },
         {
@@ -182,10 +182,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-25T19:32:35Z",
+            "last_commit": "2026-08-26T17:49:07Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14677
+            "stars": 14688
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2025-09-23T18:33:52Z",
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7800
+            "stars": 7801
           }
         },
         {
@@ -251,7 +251,7 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13379
+            "stars": 13381
           }
         },
         {
@@ -263,7 +263,7 @@
             "archived": false,
             "id": 46140633,
             "language": "Go",
-            "last_commit": "2026-08-24T14:06:46Z",
+            "last_commit": "2026-08-25T23:03:45Z",
             "owner": "quay",
             "repo": "clair",
             "stars": 11052
@@ -404,7 +404,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9352
+            "stars": 9353
           }
         },
         {
@@ -419,7 +419,7 @@
             "last_commit": "2026-08-02T02:31:38Z",
             "owner": "JPCERTCC",
             "repo": "LogonTracer",
-            "stars": 3220
+            "stars": 3221
           }
         },
         {
@@ -451,7 +451,7 @@
                 "last_commit": "2026-08-07T20:44:18Z",
                 "owner": "certsocietegenerale",
                 "repo": "FIR",
-                "stars": 2030
+                "stars": 2031
               }
             },
             {
@@ -574,7 +574,7 @@
             "last_commit": "2026-07-09T23:04:09Z",
             "owner": "jtesta",
             "repo": "ssh-audit",
-            "stars": 4281
+            "stars": 4280
           }
         },
         {
@@ -589,7 +589,7 @@
             "last_commit": "2025-11-05T13:11:51Z",
             "owner": "AltraMayor",
             "repo": "gatekeeper",
-            "stars": 1632
+            "stars": 1634
           }
         },
         {
@@ -651,7 +651,7 @@
                 "last_commit": "2026-07-29T20:37:23Z",
                 "owner": "SSLMate",
                 "repo": "certspotter",
-                "stars": 1169
+                "stars": 1170
               }
             },
             {
@@ -737,7 +737,7 @@
             "last_commit": "2025-09-23T10:20:43Z",
             "owner": "NextronSystems",
             "repo": "APTSimulator",
-            "stars": 2763
+            "stars": 2764
           }
         },
         {
@@ -767,7 +767,7 @@
             "last_commit": "2025-01-22T10:50:09Z",
             "owner": "redhuntlabs",
             "repo": "RedHunt-OS",
-            "stars": 1317
+            "stars": 1318
           }
         },
         {
@@ -817,7 +817,7 @@
                 "archived": false,
                 "id": 12901559,
                 "language": "C",
-                "last_commit": "2026-08-25T14:40:59Z",
+                "last_commit": "2026-08-26T19:38:32Z",
                 "owner": "ossec",
                 "repo": "ossec-hids",
                 "stars": 5047
@@ -854,10 +854,10 @@
                 "archived": false,
                 "id": 27561102,
                 "language": "Python",
-                "last_commit": "2026-08-25T19:54:07Z",
+                "last_commit": "2026-08-26T19:45:49Z",
                 "owner": "stamparm",
                 "repo": "maltrail",
-                "stars": 8588
+                "stars": 8587
               }
             },
             {
@@ -869,7 +869,7 @@
                 "archived": false,
                 "id": 4927517,
                 "language": "C",
-                "last_commit": "2026-08-25T21:25:18Z",
+                "last_commit": "2026-08-26T23:44:45Z",
                 "owner": "arkime",
                 "repo": "arkime",
                 "stars": 7459
@@ -899,7 +899,7 @@
                 "archived": false,
                 "id": 932314,
                 "language": "C++",
-                "last_commit": "2026-08-25T11:14:27Z",
+                "last_commit": "2026-08-26T14:23:06Z",
                 "owner": "tenzir",
                 "repo": "tenzir",
                 "stars": 757
@@ -984,7 +984,7 @@
                 "last_commit": "2026-08-19T09:58:40Z",
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 34984
+                "stars": 34997
               }
             },
             {
@@ -999,7 +999,7 @@
                 "last_commit": "2026-08-25T16:33:00Z",
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23521
+                "stars": 23524
               }
             }
           ],
@@ -1096,7 +1096,7 @@
                 "last_commit": "2023-11-16T10:31:37Z",
                 "owner": "Invoke-IR",
                 "repo": "PowerForensics",
-                "stars": 1442
+                "stars": 1443
               }
             },
             {
@@ -1182,7 +1182,7 @@
             "last_commit": "2026-05-31T10:54:05Z",
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10574
+            "stars": 10578
           }
         },
         {
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:59:23.863Z",
+    "last_updated": "2026-08-27T03:32:22.679Z",
     "original_repository": "satan1a/awesome-cybersecurity-blueteam-cn",
     "original_repository_id": 286225736,
     "original_repository_sha": "a09f2049d4e51f9bb529d8c0c5aea17314a7e1af",
