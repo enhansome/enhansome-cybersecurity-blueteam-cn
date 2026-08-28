@@ -18,7 +18,8 @@
                 "owner": "USArmyResearchLab",
                 "repo": "Dshell",
                 "stars": 5492
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "latchset",
                 "repo": "clevis",
                 "stars": 1246
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "mitre",
                 "repo": "multiscanner",
                 "stars": 621
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -66,11 +69,12 @@
                 "archived": false,
                 "id": 43082714,
                 "language": "Python",
-                "last_commit": "2026-08-21T15:42:04Z",
+                "last_commit": "2026-08-27T20:50:07Z",
                 "owner": "censys",
                 "repo": "censys-python",
                 "stars": 469
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "oasis-open",
                 "repo": "cti-python-stix2",
                 "stars": 435
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "pellegre",
                 "repo": "libcrafter",
                 "stars": 311
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "pedramamini",
                 "repo": "sandboxapi",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "darkoperator",
                 "repo": "Posh-VirusTotal",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "rshipp",
                 "repo": "python-dshield",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": null,
@@ -167,11 +176,12 @@
             "archived": false,
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-27T11:33:39Z",
+            "last_commit": "2026-08-28T04:33:43Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19168
-          }
+            "stars": 19178
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -182,11 +192,12 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-27T11:33:05Z",
+            "last_commit": "2026-08-27T19:18:06Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14692
-          }
+            "stars": 14701
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -201,7 +212,8 @@
             "owner": "nccgroup",
             "repo": "ScoutSuite",
             "stars": 7802
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -216,7 +228,8 @@
             "owner": "darkbitio",
             "repo": "mkit",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         }
       ],
       "title": "云平台安全"
@@ -237,7 +250,8 @@
             "owner": "devsecops",
             "repo": "awesome-devsecops",
             "stars": 5460
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -251,8 +265,9 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13382
-          }
+            "stars": 13383
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -267,7 +282,8 @@
             "owner": "quay",
             "repo": "clair",
             "stars": 11052
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -282,7 +298,8 @@
             "owner": "StackExchange",
             "repo": "blackbox",
             "stars": 6770
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "children": [
@@ -299,7 +316,8 @@
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
                 "stars": 5905
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": null,
@@ -321,7 +339,8 @@
                 "owner": "latchset",
                 "repo": "tang",
                 "stars": 724
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": null,
@@ -346,8 +365,9 @@
             "last_commit": "2026-06-01T14:15:45Z",
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10534
-          }
+            "stars": 10535
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -361,8 +381,9 @@
             "last_commit": "2026-08-20T13:20:14Z",
             "owner": "thinkst",
             "repo": "canarytokens",
-            "stars": 2140
-          }
+            "stars": 2141
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "children": [
@@ -379,7 +400,8 @@
                 "owner": "skeeto",
                 "repo": "endlessh",
                 "stars": 8544
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": "补充：Tarpit(Tar pit, 焦油坑)概念为低于计算器蠕虫而生。核心思路是：对于网络攻击（例如扫描器和密码爆破工具）来说，如果其总共消耗的时间过长，那么对于攻击者来说，这些系统的吸引力也会降低。\n其实这也是从攻防成本的角度出发，攻防对抗的本质是成本的对抗，利用该类型的蜜罐技术，可以增加攻击者的时间成本，从而丧失行动力。\n这种概念类似焦油坑，陷入其中的东西会缓慢地沉入，让对方失去行动力，因此被称为Tarpit(Tar pit, 焦油坑)。",
@@ -404,8 +426,9 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9353
-          }
+            "stars": 9355
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -419,8 +442,9 @@
             "last_commit": "2026-08-02T02:31:38Z",
             "owner": "JPCERTCC",
             "repo": "LogonTracer",
-            "stars": 3222
-          }
+            "stars": 3223
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -435,7 +459,8 @@
             "owner": "ThreatResponse",
             "repo": "aws_ir",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "children": [
@@ -452,7 +477,8 @@
                 "owner": "certsocietegenerale",
                 "repo": "FIR",
                 "stars": 2032
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -467,7 +493,8 @@
                 "owner": "DefensePointSecurity",
                 "repo": "threat_note",
                 "stars": 435
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -482,7 +509,8 @@
                 "owner": "opensourcesec",
                 "repo": "CIRTKit",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": "Incident Response management consoles，事件响应管理平台\n另请参阅 Security Orchestration, Automation, and Response (SOAR).",
@@ -504,7 +532,8 @@
                 "owner": "jipegit",
                 "repo": "OSXAuditor",
                 "stars": 3135
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -519,7 +548,8 @@
                 "owner": "YelpArchive",
                 "repo": "osxcollector",
                 "stars": 1894
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -534,7 +564,8 @@
                 "owner": "diogo-fernan",
                 "repo": "ir-rescue",
                 "stars": 488
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -549,7 +580,8 @@
                 "owner": "ThreatResponse",
                 "repo": "margaritashotgun",
                 "stars": 253
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": null,
@@ -574,8 +606,9 @@
             "last_commit": "2026-07-09T23:04:09Z",
             "owner": "jtesta",
             "repo": "ssh-audit",
-            "stars": 4282
-          }
+            "stars": 4283
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -590,7 +623,8 @@
             "owner": "AltraMayor",
             "repo": "gatekeeper",
             "stars": 1634
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "children": [
@@ -607,7 +641,8 @@
                 "owner": "fabacab",
                 "repo": "awesome-pentest",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -622,7 +657,8 @@
                 "owner": "CrimsonForge-io",
                 "repo": "king-phisher",
                 "stars": 2583
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -637,7 +673,8 @@
                 "owner": "x0rz",
                 "repo": "phishing_catcher",
                 "stars": 1819
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -651,8 +688,9 @@
                 "last_commit": "2026-07-29T20:37:23Z",
                 "owner": "SSLMate",
                 "repo": "certspotter",
-                "stars": 1170
-              }
+                "stars": 1171
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -667,7 +705,8 @@
                 "owner": "societe-generale",
                 "repo": "swordphish-awareness",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -682,7 +721,8 @@
                 "owner": "LogRhythm-Labs",
                 "repo": "PIE",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -697,7 +737,8 @@
                 "owner": "serain",
                 "repo": "mailspoof",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -712,7 +753,8 @@
                 "owner": "certsocietegenerale",
                 "repo": "NotifySecurity",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": null,
@@ -738,7 +780,8 @@
             "owner": "NextronSystems",
             "repo": "APTSimulator",
             "stars": 2764
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -753,7 +796,8 @@
             "owner": "alphasoc",
             "repo": "flightsim",
             "stars": 1363
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -768,7 +812,8 @@
             "owner": "redhuntlabs",
             "repo": "RedHunt-OS",
             "stars": 1318
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -783,7 +828,8 @@
             "owner": "uber-common",
             "repo": "metta",
             "stars": 1145
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -798,7 +844,8 @@
             "owner": "TryCatchHCF",
             "repo": "DumpsterFire",
             "stars": 1039
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         }
       ],
       "title": "攻防演练"
@@ -821,7 +868,8 @@
                 "owner": "ossec",
                 "repo": "ossec-hids",
                 "stars": 5047
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": "Endpoint Detection and Response , EDR",
@@ -842,8 +890,9 @@
                 "last_commit": "2025-09-03T07:24:40Z",
                 "owner": "caesar0301",
                 "repo": "awesome-pcaptools",
-                "stars": 3415
-              }
+                "stars": 3414
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -853,12 +902,13 @@
               "repo_info": {
                 "archived": false,
                 "id": 27561102,
-                "language": "Python",
-                "last_commit": "2026-08-27T11:37:38Z",
+                "language": "Rust",
+                "last_commit": "2026-08-28T05:51:38Z",
                 "owner": "stamparm",
                 "repo": "maltrail",
-                "stars": 8586
-              }
+                "stars": 8587
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -869,11 +919,12 @@
                 "archived": false,
                 "id": 4927517,
                 "language": "C",
-                "last_commit": "2026-08-26T23:44:45Z",
+                "last_commit": "2026-08-27T22:00:55Z",
                 "owner": "arkime",
                 "repo": "arkime",
                 "stars": 7459
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -888,7 +939,8 @@
                 "owner": "google",
                 "repo": "stenographer",
                 "stars": 1796
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -899,11 +951,12 @@
                 "archived": false,
                 "id": 932314,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:09:01Z",
+                "last_commit": "2026-08-27T13:55:25Z",
                 "owner": "tenzir",
                 "repo": "tenzir",
                 "stars": 757
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -917,8 +970,9 @@
                 "last_commit": "2026-06-17T18:58:01Z",
                 "owner": "activecm",
                 "repo": "rita",
-                "stars": 628
-              }
+                "stars": 630
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -933,7 +987,8 @@
                 "owner": "MITRECND",
                 "repo": "chopshop",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -948,7 +1003,8 @@
                 "owner": "codeexpress",
                 "repo": "respounder",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -963,7 +1019,8 @@
                 "owner": "NetSPI",
                 "repo": "SpoofSpotter",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": "Network Security Monitoring (NSM)",
@@ -981,11 +1038,12 @@
                 "archived": false,
                 "id": 28387406,
                 "language": null,
-                "last_commit": "2026-08-19T09:58:40Z",
+                "last_commit": "2026-08-27T15:09:19Z",
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 34997
-              }
+                "stars": 35008
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -999,8 +1057,9 @@
                 "last_commit": "2026-08-25T16:33:00Z",
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23524
-              }
+                "stars": 23525
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": "Service and performance monitoring",
@@ -1022,7 +1081,8 @@
                 "owner": "0x4D31",
                 "repo": "awesome-threat-detection",
                 "stars": 4711
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -1037,7 +1097,8 @@
                 "owner": "google",
                 "repo": "grr",
                 "stars": 5088
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -1052,7 +1113,8 @@
                 "owner": "Cyb3rWard0g",
                 "repo": "HELK",
                 "stars": 3931
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -1067,7 +1129,8 @@
                 "owner": "sans-blue-team",
                 "repo": "DeepBlueCLI",
                 "stars": 2428
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -1082,7 +1145,8 @@
                 "owner": "mozilla",
                 "repo": "MozDef",
                 "stars": 2161
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -1097,7 +1161,8 @@
                 "owner": "Invoke-IR",
                 "repo": "PowerForensics",
                 "stars": 1443
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -1112,7 +1177,8 @@
                 "owner": "mattifestation",
                 "repo": "CimSweep",
                 "stars": 656
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -1127,7 +1193,8 @@
                 "owner": "gfoss",
                 "repo": "PSRecon",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -1142,7 +1209,8 @@
                 "owner": "Infocyte",
                 "repo": "PSHunt",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1225,8 @@
                 "owner": "rastrea2r",
                 "repo": "rastrea2r",
                 "stars": 238
-              }
+              },
+              "first_seen": "2026-08-28T06:17:36.219Z"
             }
           ],
           "description": "Threat hunting，也被称为hunt teaming和threat detection。",
@@ -1183,7 +1252,8 @@
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
             "stars": 10580
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1198,7 +1268,8 @@
             "owner": "viper-framework",
             "repo": "viper",
             "stars": 1562
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1284,8 @@
             "owner": "nsacyber",
             "repo": "GRASSMARLIN",
             "stars": 1059
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1300,8 @@
             "owner": "pedramamini",
             "repo": "ThreatIngestor",
             "stars": 924
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1316,8 @@
             "owner": "ANSSI-FR",
             "repo": "AD-control-paths",
             "stars": 676
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1332,8 @@
             "owner": "mlsecproject",
             "repo": "combine",
             "stars": 654
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1273,7 +1348,8 @@
             "owner": "opensourcesec",
             "repo": "Forager",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1364,8 @@
             "owner": "hadojae",
             "repo": "DATA",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         }
       ],
       "title": "威胁情报"
@@ -1308,8 +1385,9 @@
             "last_commit": "2023-09-03T02:11:13Z",
             "owner": "ajvb",
             "repo": "awesome-tor",
-            "stars": 507
-          }
+            "stars": 508
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1324,7 +1402,8 @@
             "owner": "mikeperry-tor",
             "repo": "vanguards",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         }
       ],
       "title": "Tor Onion服务防护"
@@ -1345,7 +1424,8 @@
             "owner": "google",
             "repo": "santa",
             "stars": 4511
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1360,7 +1440,8 @@
             "owner": "alichtman",
             "repo": "stronghold",
             "stars": 1191
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1375,7 +1456,8 @@
             "owner": "essandess",
             "repo": "macOS-Fortress",
             "stars": 451
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         }
       ],
       "title": "基于macOS的防护"
@@ -1396,7 +1478,8 @@
             "owner": "hardentools",
             "repo": "hardentools",
             "stars": 3105
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1411,7 +1494,8 @@
             "owner": "nsacyber",
             "repo": "Windows-Secure-Host-Baseline",
             "stars": 1588
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1510,8 @@
             "owner": "linuz",
             "repo": "Sticky-Keys-Slayer",
             "stars": 348
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1526,8 @@
             "owner": "realparisi",
             "repo": "WMI_Monitor",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         },
         {
           "node_type": "item",
@@ -1456,14 +1542,15 @@
             "owner": "sensepost",
             "repo": "notruler",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T06:17:36.219Z"
         }
       ],
       "title": "基于Windows的防护"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:13.248Z",
+    "last_updated": "2026-08-28T06:17:36.219Z",
     "original_repository_info": {
       "archived": false,
       "id": 286225736,
