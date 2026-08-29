@@ -91,7 +91,7 @@ SOAR, Security Orchestration, Automation and Response, 安全编排自动化与�
 另请参阅：[asecure.cloud/tools](https://asecure.cloud/tools/).
 
 * [gVisor](https://github.com/google/gvisor) ⭐ 19,185 | 🐛 838 | 🌐 Go | 📅 2026-08-29 - 用Go编写的应用程序内核，它实现Linux系统表面的很大一部分，用以在应用程序和主机内核之间提供隔离边界
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,713 | 🐛 336 | 🌐 Python | 📅 2026-08-28 - 基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和增强
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,713 | 🐛 337 | 🌐 Python | 📅 2026-08-28 - 基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和增强
 * [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,803 | 🐛 296 | 🌐 Python | 📅 2025-09-23 - 开源的多云安全审核工具，可用于评估云环境的安全状态
   * 补充：Muticloud，多云，是指在单个异构架构中使用多个[云计算](https://en.wikipedia.org/wiki/Cloud_computing)和[存储](https://en.wikipedia.org/wiki/Cloud_storage)服务
 * [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) ⚠️ Archived - 可提供查询和验证托管Kubernetes群集对象以及群集内运行的工作负载/资源的几种与安全性相关的常见设置
