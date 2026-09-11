@@ -42,7 +42,7 @@
                 "open_issues": 160,
                 "owner": "latchset",
                 "repo": "clevis",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -136,7 +136,7 @@
                 "open_issues": 67,
                 "owner": "oasis-open",
                 "repo": "cti-python-stix2",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "cti",
                   "cyber-threat-intelligence",
@@ -283,11 +283,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T00:27:39Z",
-            "open_issues": 874,
+            "last_commit": "2026-09-11T00:19:50Z",
+            "open_issues": 884,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19263,
+            "stars": 19272,
             "topics": [
               "containers",
               "docker",
@@ -312,11 +312,11 @@
             "id": 66474729,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T21:05:11Z",
-            "open_issues": 369,
+            "last_commit": "2026-09-10T15:55:11Z",
+            "open_issues": 368,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14780,
+            "stars": 14790,
             "topics": [
               "aws",
               "azure",
@@ -420,7 +420,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-05-11T17:48:07Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "devsecops",
             "repo": "awesome-devsecops",
             "stars": 5468,
@@ -449,7 +449,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13388,
+            "stars": 13391,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:36.219Z"
@@ -470,7 +470,7 @@
             "open_issues": 52,
             "owner": "quay",
             "repo": "clair",
-            "stars": 11057,
+            "stars": 11058,
             "topics": [
               "clair",
               "containers",
@@ -501,7 +501,7 @@
             "open_issues": 55,
             "owner": "StackExchange",
             "repo": "blackbox",
-            "stars": 6766,
+            "stars": 6767,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:36.219Z"
@@ -524,7 +524,7 @@
                 "open_issues": 11,
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
-                "stars": 5909,
+                "stars": 5910,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -613,11 +613,11 @@
             "id": 39949815,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T12:21:18Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-10T15:11:06Z",
+            "open_issues": 6,
             "owner": "thinkst",
             "repo": "canarytokens",
-            "stars": 2158,
+            "stars": 2159,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:36.219Z"
@@ -637,10 +637,10 @@
                 "language": "C",
                 "license": "Unlicense",
                 "last_commit": "2024-06-03T13:22:10Z",
-                "open_issues": 50,
+                "open_issues": 49,
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8546,
+                "stars": 8552,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -672,7 +672,7 @@
             "open_issues": 80,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9376,
+            "stars": 9379,
             "topics": [
               "awesome",
               "awesome-list",
@@ -962,7 +962,7 @@
             "open_issues": 96,
             "owner": "AltraMayor",
             "repo": "gatekeeper",
-            "stars": 1638,
+            "stars": 1639,
             "topics": [
               "anti-ddos",
               "ddos",
@@ -1195,7 +1195,7 @@
             "open_issues": 4,
             "owner": "NextronSystems",
             "repo": "APTSimulator",
-            "stars": 2767,
+            "stars": 2768,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:36.219Z"
@@ -1298,7 +1298,7 @@
             "open_issues": 5,
             "owner": "TryCatchHCF",
             "repo": "DumpsterFire",
-            "stars": 1040,
+            "stars": 1039,
             "topics": [
               "automation",
               "blue-team",
@@ -1400,11 +1400,11 @@
                 "id": 27561102,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T21:08:46Z",
+                "last_commit": "2026-09-10T18:52:50Z",
                 "open_issues": 35,
                 "owner": "stamparm",
                 "repo": "maltrail",
-                "stars": 8597,
+                "stars": 8599,
                 "topics": [
                   "attack-detection",
                   "intrusion-detection",
@@ -1430,7 +1430,7 @@
                 "id": 4927517,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T23:50:46Z",
+                "last_commit": "2026-09-10T20:44:04Z",
                 "open_issues": 39,
                 "owner": "arkime",
                 "repo": "arkime",
@@ -1481,7 +1481,7 @@
                 "id": 932314,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-09T16:06:46Z",
+                "last_commit": "2026-09-10T17:02:07Z",
                 "open_issues": 0,
                 "owner": "tenzir",
                 "repo": "tenzir",
@@ -1641,7 +1641,7 @@
                 "open_issues": 0,
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 35109,
+                "stars": 35114,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1669,10 +1669,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-09T14:03:13Z",
-                "open_issues": 642,
+                "open_issues": 645,
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23556,
+                "stars": 23560,
                 "topics": [
                   "hacktoberfest",
                   "intrusion-detection",
@@ -1703,7 +1703,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-01-05T12:27:34Z",
-                "open_issues": 55,
+                "open_issues": 56,
                 "owner": "0x4D31",
                 "repo": "awesome-threat-detection",
                 "stars": 4723,
@@ -1735,7 +1735,7 @@
                 "open_issues": 191,
                 "owner": "google",
                 "repo": "grr",
-                "stars": 5088,
+                "stars": 5087,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -1960,10 +1960,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 137,
+            "open_issues": 138,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10611,
+            "stars": 10619,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2043,7 +2043,7 @@
             "open_issues": 15,
             "owner": "pedramamini",
             "repo": "ThreatIngestor",
-            "stars": 925,
+            "stars": 927,
             "topics": [
               "dfir",
               "fraud-detection",
@@ -2457,7 +2457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T00:32:55.973Z",
+    "last_updated": "2026-09-11T00:30:17.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "网络安全 · 攻防对抗 · 蓝队清单，中文版",
