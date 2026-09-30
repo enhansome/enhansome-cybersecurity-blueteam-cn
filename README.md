@@ -2,7 +2,7 @@
 
 > 攻防对抗 · 蓝队清单，中文版
 
-本项目基于[awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,583 | 🐛 87 | 📅 2024-07-15，经过蹩脚的翻译和一些补充，**旨在帮助以中文为母语的安全研究者更好地了解蓝队工作，以及便利地找寻蓝队工具**。
+本项目基于[awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) ⭐ 5,584 | 🐛 87 | 📅 2024-07-15，经过蹩脚的翻译和一些补充，**旨在帮助以中文为母语的安全研究者更好地了解蓝队工作，以及便利地找寻蓝队工具**。
 
 非常感谢原作者的整理，对于我这个蓝队的入门学习者来说，帮助非常大。也希望自己的一点点工作能帮助到你，一起来玩吧！
 
@@ -70,7 +70,7 @@
 
 * [MultiScanner](https://github.com/mitre/multiscanner) ⭐ 620 | 🐛 39 | 🌐 Python | 📅 2019-10-08 - 使用Python编写的文件分析框架，支持自动运行相关的工具，汇总输出帮助评估一组带分析的文件
 * [censys-python](https://github.com/censys/censys-python) ⭐ 469 | 🐛 1 | 🌐 Python | 📅 2026-08-28 - 对Censys REST API的Python轻量级封装
-* [python-stix2](https://github.com/oasis-open/cti-python-stix2) ⭐ 439 | 🐛 68 | 🌐 Python | 📅 2026-02-12 - 用于序列化和反序列化STIX（JSON形式）的Python API，以及一些用于常见任务的高级API
+* [python-stix2](https://github.com/oasis-open/cti-python-stix2) ⭐ 438 | 🐛 68 | 🌐 Python | 📅 2026-02-12 - 用于序列化和反序列化STIX（JSON形式）的Python API，以及一些用于常见任务的高级API
   * 补充：STIX是用来交换威胁情报的一种语言和序列化格式，由MITRE联合DHS（美国国土安全部）发布
 * [libcrafter](https://github.com/pellegre/libcrafter) ⭐ 312 | 🐛 3 | 🌐 Rust | 📅 2026-09-20 - 一个c++的高级库，用于创建和解码网络数据包
 * [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) ⭐ 143 | 🐛 0 | 🌐 Python | 📅 2024-01-31 - 用于构建恶意软件沙箱集成的最小型、并且长期有效的的Python API
@@ -90,8 +90,8 @@ SOAR, Security Orchestration, Automation and Response, 安全编排自动化与�
 
 另请参阅：[asecure.cloud/tools](https://asecure.cloud/tools/).
 
-* [gVisor](https://github.com/google/gvisor) ⭐ 19,446 | 🐛 850 | 🌐 Go | 📅 2026-09-29 - 用Go编写的应用程序内核，它实现Linux系统表面的很大一部分，用以在应用程序和主机内核之间提供隔离边界
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,890 | 🐛 383 | 🌐 Python | 📅 2026-09-28 - 基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和增强
+* [gVisor](https://github.com/google/gvisor) ⭐ 19,456 | 🐛 861 | 🌐 Go | 📅 2026-09-30 - 用Go编写的应用程序内核，它实现Linux系统表面的很大一部分，用以在应用程序和主机内核之间提供隔离边界
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,896 | 🐛 384 | 🌐 Python | 📅 2026-09-29 - 基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和增强
 * [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,831 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - 开源的多云安全审核工具，可用于评估云环境的安全状态
   * 补充：Muticloud，多云，是指在单个异构架构中使用多个[云计算](https://en.wikipedia.org/wiki/Cloud_computing)和[存储](https://en.wikipedia.org/wiki/Cloud_storage)服务
 * [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) ⚠️ Archived - 可提供查询和验证托管Kubernetes群集对象以及群集内运行的工作负载/资源的几种与安全性相关的常见设置
@@ -110,12 +110,12 @@ COMSEC, Communications Security, 通讯安全
 
 ## DevSecOps
 
-另请参阅：[awesome-devsecops](https://github.com/devsecops/awesome-devsecops) ⭐ 5,481 | 🐛 91 | 📅 2024-05-11
+另请参阅：[awesome-devsecops](https://github.com/devsecops/awesome-devsecops) ⭐ 5,480 | 🐛 91 | 📅 2024-05-11
 
 补充：DevOps旨在加强开发人员，IT运营和安全性之间的关系。
 
 * [Git Secrets](https://github.com/awslabs/git-secrets) ⭐ 13,407 | 🐛 131 | 🌐 Shell | 📅 2025-09-17 - 用于防止用户提交密码或其他的敏感信息到Git仓库
-* [Clair](https://github.com/coreos/clair) ⭐ 11,066 | 🐛 59 | 🌐 Go | 📅 2026-09-28 - 静态分析工具，用于探测应用容器镜像（e.g. Docker）中的漏洞
+* [Clair](https://github.com/coreos/clair) ⭐ 11,066 | 🐛 59 | 🌐 Go | 📅 2026-09-29 - 静态分析工具，用于探测应用容器镜像（e.g. Docker）中的漏洞
 * [BlackBox](https://github.com/StackExchange/blackbox) ⚠️ Archived - 通过GnuPG技术安全地保存Git/Mercurial/Subversion的密钥，该过程可在空闲时进行
 * [Cilium](https://cilium.io/) - 开源软件，用于透明地保护应用服务和Linux容器化管理平台（e.g. Docker, Kubernetes）之间的网络连接安全
   * 透明是指，Cilium 是位于 Linux kernel 与容器编排系统的中间层。向上可以为容器配置网络，向下可以向 Linux 内核生成 BPF 程序来控制容器的安全性和转发行为
@@ -144,9 +144,9 @@ COMSEC, Communications Security, 通讯安全
 
 ## 蜜罐
 
-另请参阅：[awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,574 | 🐛 31 | 🌐 Python | 📅 2026-06-01.
+另请参阅：[awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,577 | 🐛 31 | 🌐 Python | 📅 2026-06-01.
 
-* [CanaryTokens](https://github.com/thinkst/canarytokens) ⭐ 2,167 | 🐛 6 | 🌐 Python | 📅 2026-09-25 - 可以自承载的Honey Token生成器及报告模版，演示版本可查看：[CanaryTokens.org](https://canarytokens.org/).
+* [CanaryTokens](https://github.com/thinkst/canarytokens) ⭐ 2,170 | 🐛 6 | 🌐 Python | 📅 2026-09-25 - 可以自承载的Honey Token生成器及报告模版，演示版本可查看：[CanaryTokens.org](https://canarytokens.org/).
   * 补充，Honey Token：对蜜罐概念的一种发展，是一种数字化的实体，使得蜜罐不再局限于硬件设备。任何黑客感兴趣信息的伪造都可成为蜜罐\[3]。例如，一串银行卡密码、一个名为“财务报表”的Excel表格等
 * [Kushtaka](https://kushtaka.org) - 可持续的多合一蜜罐和honey token编排器，用于资源不丰富的蓝队
 
@@ -185,7 +185,7 @@ COMSEC, Communications Security, 通讯安全
 
 ## 事件响应工具
 
-另请参阅：[awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,418 | 🐛 89 | 📅 2026-07-15.
+另请参阅：[awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,420 | 🐛 89 | 📅 2026-07-15.
 
 * [LogonTracer](https://github.com/JPCERTCC/LogonTracer) ⭐ 3,281 | 🐛 22 | 🌐 Python | 📅 2026-08-02 - 可用于可视化分析Windows事件日志来调查恶意的Windows登录
 * [aws\_ir](https://github.com/ThreatResponse/aws_ir) ⭐ 343 | 🐛 14 | 🌐 Python | 📅 2021-07-23 - 通过零信任安全假设来自动化执行事件响应的工具
@@ -222,8 +222,8 @@ Incident Response management consoles，事件响应管理平台
 
 Network perimeter defenses
 
-* [ssh-audit](https://github.com/jtesta/ssh-audit) ⭐ 4,311 | 🐛 40 | 🌐 Python | 📅 2026-07-09 - 用于快速提出建议来改善SSH服务器安全状况的一个简易工具
-* [Gatekeeper](https://github.com/AltraMayor/gatekeeper) ⭐ 1,647 | 🐛 96 | 🌐 C | 📅 2026-09-23 - 第一个开源的、用于分布式拒绝服务（DDoS）保护的系统
+* [ssh-audit](https://github.com/jtesta/ssh-audit) ⭐ 4,313 | 🐛 41 | 🌐 Python | 📅 2026-07-09 - 用于快速提出建议来改善SSH服务器安全状况的一个简易工具
+* [Gatekeeper](https://github.com/AltraMayor/gatekeeper) ⭐ 1,646 | 🐛 96 | 🌐 C | 📅 2026-09-23 - 第一个开源的、用于分布式拒绝服务（DDoS）保护的系统
 * [fwknop](https://www.cipherdyne.org/fwknop/) - 通过防火墙中的单包授权保护端口
   * 补充，单包授权：Single Packet Authorization，SPA。SPA将单个数据包经过加密，不可重放，并通过HMAC进行身份验证，以便在传达到隐藏在防火墙后面的服务\[6]
 
@@ -242,9 +242,9 @@ Network perimeter defenses
 
 另请参阅[awesome-pentest § Social Engineering Tools](https://github.com/fabacab/awesome-pentest#social-engineering-tools) ⭐ 280 | 🐛 0 | 📅 2023-10-23
 
-* [King Phisher](https://github.com/securestate/king-phisher) ⭐ 2,595 | 🐛 2 | 🌐 Python | 📅 2026-08-04 - 通过模拟真实的网络钓鱼攻击来测试和提高用户意识的工具
-* [phishing\_catcher](https://github.com/x0rz/phishing_catcher) ⭐ 1,824 | 🐛 45 | 🌐 Python | 📅 2024-08-13 - 使用[CertStream](https://certstream.calidog.io/)服务在证书透明日志(CTL)中通过域名监视可疑TLS证书的可配置脚本
-* [CertSpotter](https://github.com/SSLMate/certspotter) ⭐ 1,177 | 🐛 18 | 🌐 Go | 📅 2026-09-13 - 来自SSLMate的证书透明日志监视器，当你的某个域被颁发SSL/TLS证书时，该监视器会发出警报
+* [King Phisher](https://github.com/securestate/king-phisher) ⭐ 2,596 | 🐛 2 | 🌐 Python | 📅 2026-08-04 - 通过模拟真实的网络钓鱼攻击来测试和提高用户意识的工具
+* [phishing\_catcher](https://github.com/x0rz/phishing_catcher) ⭐ 1,825 | 🐛 45 | 🌐 Python | 📅 2024-08-13 - 使用[CertStream](https://certstream.calidog.io/)服务在证书透明日志(CTL)中通过域名监视可疑TLS证书的可配置脚本
+* [CertSpotter](https://github.com/SSLMate/certspotter) ⭐ 1,178 | 🐛 18 | 🌐 Go | 📅 2026-09-13 - 来自SSLMate的证书透明日志监视器，当你的某个域被颁发SSL/TLS证书时，该监视器会发出警报
 * [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) ⭐ 226 | 🐛 6 | 🌐 Python | 📅 2024-09-22 - 该平台可用于创建和管理（伪造）网络钓鱼活动，目的是训练目标识别可疑邮件的能力
 * [Phishing Intelligence Engine (PIE)](https://github.com/LogRhythm-Labs/PIE) ⭐ 179 | 🐛 8 | 🌐 PowerShell | 📅 2020-04-13 - 有助于检测和响应网络钓鱼攻击的框架
 * [mailspoof](https://github.com/serain/mailspoof) ⭐ 137 | 🐛 13 | 🌐 Python | 📅 2022-12-08 - 可用与扫描SPF和DMARC记录来查找可能造成电子邮件欺骗的问题
@@ -259,11 +259,11 @@ Network perimeter defenses
 
 Preparedness training and wargaming，备战训练及演习。也同样被称为*adversary emulation*和*threat simulation*之类。此处使用大陆地区较为常见的说法：攻防演练。
 
-* [APTSimulator](https://github.com/NextronSystems/APTSimulator) ⭐ 2,773 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23 - 可以使系统看起来像APT攻击受害者的工具集
-* [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) ⭐ 1,365 | 🐛 24 | 🌐 Go | 📅 2024-04-04 - 用于生成恶意网络流量，可帮助安全团队评估安全控制以及审核他们网络的可见性
-* [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) ⭐ 1,320 | 🐛 7 | 📅 2025-01-22 - 基于Ubuntu的开放式虚拟设备（`.ova`），预配置了多个威胁仿真工具以及防守方的工具包
-* [Metta](https://github.com/uber-common/metta) ⭐ 1,144 | 🐛 13 | 🌐 Python | 📅 2019-04-01 - 自动化的信息安全防范工具，可以进行对抗性模拟
-* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) ⭐ 1,040 | 🐛 5 | 🌐 Python | 📅 2020-05-27 - 一个模块化，菜单驱动的跨平台工具，可用于为蓝队演练和传感器/警报映射构建可重复的、延迟的、分布式的安全事件
+* [APTSimulator](https://github.com/NextronSystems/APTSimulator) ⭐ 2,774 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23 - 可以使系统看起来像APT攻击受害者的工具集
+* [Network Flight Simulator (`flightsim`)](https://github.com/alphasoc/flightsim) ⭐ 1,366 | 🐛 24 | 🌐 Go | 📅 2024-04-04 - 用于生成恶意网络流量，可帮助安全团队评估安全控制以及审核他们网络的可见性
+* [RedHunt OS](https://github.com/redhuntlabs/RedHunt-OS) ⭐ 1,319 | 🐛 7 | 📅 2025-01-22 - 基于Ubuntu的开放式虚拟设备（`.ova`），预配置了多个威胁仿真工具以及防守方的工具包
+* [Metta](https://github.com/uber-common/metta) ⭐ 1,146 | 🐛 13 | 🌐 Python | 📅 2019-04-01 - 自动化的信息安全防范工具，可以进行对抗性模拟
+* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) ⭐ 1,041 | 🐛 5 | 🌐 Python | 📅 2020-05-27 - 一个模块化，菜单驱动的跨平台工具，可用于为蓝队演练和传感器/警报映射构建可重复的、延迟的、分布式的安全事件
 * [Atomic Red Team](https://atomicredteam.io/) - 一个简单，可自动执行的测试库，可以执行这些测试来测试安全性控件
 
 ## 安全监控
@@ -272,7 +272,7 @@ Preparedness training and wargaming，备战训练及演习。也同样被称为
 
 Endpoint Detection and Response , EDR
 
-* [Wazuh](https://wazuh.com/) - 开源的、基于多平台代理的安全监视平台。基于[OSSEC HIDS](https://github.com/ossec/ossec-hids) ⭐ 5,060 | 🐛 125 | 🌐 C | 📅 2026-09-17分支开发
+* [Wazuh](https://wazuh.com/) - 开源的、基于多平台代理的安全监视平台。基于[OSSEC HIDS](https://github.com/ossec/ossec-hids) ⭐ 5,061 | 🐛 125 | 🌐 C | 📅 2026-09-17分支开发
 
 ### 网络安全监控（NSM）
 
@@ -280,11 +280,11 @@ Network Security Monitoring (NSM)
 
 另请参阅：[awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) ⭐ 3,430 | 🐛 14 | 📅 2025-09-03.
 
-* [Maltrail](https://github.com/stamparm/maltrail) ⭐ 8,611 | 🐛 37 | 🌐 Python | 📅 2026-09-27 - 一个恶意网络流量检测系统
-* [Moloch](https://github.com/aol/moloch) ⭐ 7,511 | 🐛 39 | 🌐 C | 📅 2026-09-29 - 可扩展当前的安全基础架构，以标准的PCAP格式存储和索引网络流量，从而实现快速的索引访问
+* [Maltrail](https://github.com/stamparm/maltrail) ⭐ 8,610 | 🐛 37 | 🌐 Python | 📅 2026-09-29 - 一个恶意网络流量检测系统
+* [Moloch](https://github.com/aol/moloch) ⭐ 7,514 | 🐛 39 | 🌐 C | 📅 2026-09-30 - 可扩展当前的安全基础架构，以标准的PCAP格式存储和索引网络流量，从而实现快速的索引访问
 * [Stenographer](https://github.com/google/stenographer) ⚠️ Archived - 可进行全包捕获的实用程序，用于将数据包缓冲到磁盘以进行入侵检测和事件响应
-* [VAST](https://github.com/tenzir/vast) ⭐ 762 | 🐛 1 | 🌐 C++ | 📅 2026-09-28 - 一个用于数据驱动的安全调查的免费开源网络遥测引擎
-* [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) ⭐ 644 | 🐛 26 | 🌐 Go | 📅 2026-09-28 - 是一套用于网络流量分析的开源框架，可吸收Zeek日志并检测信标，DNS隧道等
+* [VAST](https://github.com/tenzir/vast) ⭐ 762 | 🐛 1 | 🌐 C++ | 📅 2026-09-29 - 一个用于数据驱动的安全调查的免费开源网络遥测引擎
+* [Real Intelligence Threat Analysis (RITA)](https://github.com/activecm/rita) ⭐ 644 | 🐛 27 | 🌐 Go | 📅 2026-09-29 - 是一套用于网络流量分析的开源框架，可吸收Zeek日志并检测信标，DNS隧道等
 * [ChopShop](https://github.com/MITRECND/chopshop) ⚠️ Archived - 一个MITER开发的框架，可帮助分析人员创建和执行基于APT工具及Pynids的解码器和检测器
 * [Respounder](https://github.com/codeexpress/respounder) ⭐ 323 | 🐛 1 | 🌐 Go | 📅 2019-06-15 - 可检测网络上是否存在使用[Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived来进行LLMNR / NBT-NS / mDNS投毒的情况
   * 补充
@@ -318,7 +318,7 @@ Security Information and Event Management (SIEM)
 
 Service and performance monitoring
 
-另请参阅：[awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) ⭐ 35,291 | 🐛 0 | 📅 2026-09-17.
+另请参阅：[awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) ⭐ 35,296 | 🐛 0 | 📅 2026-09-17.
 
 * [osquery](https://github.com/facebook/osquery) ⭐ 23,591 | 🐛 578 | 🌐 C++ | 📅 2026-09-25 - 一个适用于macOS、Windows和Linux的操作系统插装框架，其将操作系统公开为高性能关系数据库，可以使用类似sql的语法进行查询
 * [Icinga](https://icinga.com/) - 基于Nagios的模块化重新设计，带有可插拔的用户界面以及一组扩展出的数据连接器，收集器和报告工具
@@ -331,10 +331,10 @@ Service and performance monitoring
 
 Threat hunting，也被称为*hunt teaming*和*threat detection*。
 
-另请参阅：[awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,734 | 🐛 61 | 📅 2026-01-05.
+另请参阅：[awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) ⭐ 4,735 | 🐛 61 | 📅 2026-01-05.
 
 * [GRR Rapid Response](https://github.com/google/grr) ⭐ 5,088 | 🐛 191 | 🌐 Python | 📅 2026-09-25 - 一个专注于远程实时取证的事件响应框架，该组件由安装在资产上的Python代理和基于Python的服务器组成基础结构，使分析师能够快速分类攻击并进行远程分析
-* [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,929 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01 - 基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁狩猎套件，并具有包括Jupyter Notebook在内的各种内置集成分析功能
+* [Hunting ELK (HELK)](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,930 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01 - 基于Elasticsearch，Logstash，Kafka和Kibana的多合一免费软件威胁狩猎套件，并具有包括Jupyter Notebook在内的各种内置集成分析功能
 * [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI) ⭐ 2,431 | 🐛 14 | 🌐 PowerShell | 📅 2023-10-14 - 用于通过Windows事件日志进行寻线分组的PowerShell模块
 * [MozDef](https://github.com/mozilla/MozDef) ⚠️ Archived - 用于自动执行安全事件处理流程，并促进事件处理程序的实时活动
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) ⭐ 1,443 | 🐛 64 | 🌐 C# | 📅 2023-11-16 - 基于PowerShell，用于实时硬盘取证分析的多合一平台
@@ -348,7 +348,7 @@ Threat hunting，也被称为*hunt teaming*和*threat detection*。
 
 Threat intelligence
 
-另请参阅：[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,682 | 🐛 141 | 📅 2026-05-31.
+另请参阅：[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,686 | 🐛 143 | 📅 2026-05-31.
 
 * [Viper](https://github.com/viper-framework/viper) ⚠️ Archived - 二进制分析和管理框架，可轻松组织恶意软件和利用样本
 * [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) ⚠️ Archived - 该工具通过被动映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）以及监督控制和数据采集（SCADA）的态势感知
@@ -385,7 +385,7 @@ Transport-layer defenses
 macOS-based defenses
 
 * [Santa](https://github.com/google/santa) ⚠️ Archived - 适用于macOS的二进制白名单/黑名单系统
-* [Stronghold](https://github.com/alichtman/stronghold) ⭐ 1,194 | 🐛 10 | 🌐 Python | 📅 2025-02-24 - 用于在终端轻松配置macOS安全设置
+* [Stronghold](https://github.com/alichtman/stronghold) ⭐ 1,195 | 🐛 10 | 🌐 Python | 📅 2025-02-24 - 用于在终端轻松配置macOS安全设置
 * [macOS Fortress](https://github.com/essandess/macOS-Fortress) ⭐ 450 | 🐛 1 | 🌐 Shell | 📅 2021-11-24 - 提供内核级、操作系统级和客户端级安全功能的自动配置，包括私有化代理和macOS的防病毒扫描。
 * [BlockBlock](https://objective-see.com/products/blockblock.html) - 该工具可用监视常见的持久性位置，并在添加持久性组件时发出警报，这有助于检测和阻止恶意软件的安装
 * [LuLu](https://objective-see.com/products/lulu.html) - 免费的macOS防火墙
@@ -394,9 +394,9 @@ macOS-based defenses
 
 Windows-based defenses
 
-另请参阅：[awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security)和[awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) ⭐ 1,801 | 🐛 2 | 📅 2020-01-07。
+另请参阅：[awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security)和[awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) ⭐ 1,802 | 🐛 2 | 📅 2020-01-07。
 
-* [HardenTools](https://github.com/securitywithoutborders/hardentools) ⭐ 3,110 | 🐛 12 | 🌐 Go | 📅 2025-08-10 - 一个可用于禁用许多危险的Windows功能的实用程序
+* [HardenTools](https://github.com/securitywithoutborders/hardentools) ⭐ 3,112 | 🐛 12 | 🌐 Go | 📅 2025-08-10 - 一个可用于禁用许多危险的Windows功能的实用程序
 * [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) ⚠️ Archived - 一种组策略对象，合规性检查和配置工具，提供了一种自动且灵活的方法来安全地部署和维护Windows 10的最新版本
 * [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) ⭐ 348 | 🐛 15 | 🌐 Shell | 📅 2018-03-16 - 该工具用于从主机名列表建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报
 * [WMI Monitor](https://github.com/realparisi/WMI_Monitor) ⭐ 123 | 🐛 2 | 🌐 PowerShell | 📅 2018-02-28 - 该工具可将新创建的WMI使用者和进程记录到Windows应用程序事件日志中
@@ -432,4 +432,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
