@@ -60,8 +60,8 @@
 
 ### 零碎的
 
-* [DShell](https://github.com/USArmyResearchLab/Dshell) ⭐ 5,496 | 🐛 4 | 🌐 Python | 📅 2024-05-07 - 用Python编写网络取证分析框架，支持扩展，可快速开发插件来分析捕获的网络数据包
-* [Clevis](https://github.com/latchset/clevis) ⭐ 1,271 | 🐛 169 | 🌐 Shell | 📅 2026-07-25 - 对于自动解密的可插入式工具，经常被用做[Tang](https://github.com/latchset/tang) ⭐ 739 | 🐛 42 | 🌐 C | 📅 2025-03-06客户端
+* [DShell](https://github.com/USArmyResearchLab/Dshell) ⭐ 5,497 | 🐛 4 | 🌐 Python | 📅 2024-05-07 - 用Python编写网络取证分析框架，支持扩展，可快速开发插件来分析捕获的网络数据包
+* [Clevis](https://github.com/latchset/clevis) ⭐ 1,271 | 🐛 169 | 🌐 Shell | 📅 2026-07-25 - 对于自动解密的可插入式工具，经常被用做[Tang](https://github.com/latchset/tang) ⭐ 740 | 🐛 42 | 🌐 C | 📅 2025-03-06客户端
 * [Ansible Lockdown](https://ansiblelockdown.io/) - 以信息安全为主题的Ansible（运维工具）规则集合。经过精心地审核，并且维护积极
 * [Dev-Sec.io](https://dev-sec.io/) - 服务器增强框架，提供各种基准安全配置的Ansible，Chef和Puppet实现
 * [peepdf](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool) - 支持脚本编写的PDF文件分析器
@@ -90,8 +90,8 @@ SOAR, Security Orchestration, Automation and Response, 安全编排自动化与�
 
 另请参阅：[asecure.cloud/tools](https://asecure.cloud/tools/).
 
-* [gVisor](https://github.com/google/gvisor) ⭐ 19,480 | 🐛 868 | 🌐 Go | 📅 2026-10-03 - 用Go编写的应用程序内核，它实现Linux系统表面的很大一部分，用以在应用程序和主机内核之间提供隔离边界
-* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,915 | 🐛 391 | 🌐 Python | 📅 2026-10-02 - 基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和增强
+* [gVisor](https://github.com/google/gvisor) ⭐ 19,482 | 🐛 866 | 🌐 Go | 📅 2026-10-03 - 用Go编写的应用程序内核，它实现Linux系统表面的很大一部分，用以在应用程序和主机内核之间提供隔离边界
+* [Prowler](https://github.com/toniblyx/prowler) ⭐ 14,917 | 🐛 391 | 🌐 Python | 📅 2026-10-02 - 基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全性评估和增强
 * [Scout Suite](https://github.com/nccgroup/ScoutSuite) ⭐ 7,832 | 🐛 297 | 🌐 Python | 📅 2025-09-23 - 开源的多云安全审核工具，可用于评估云环境的安全状态
   * 补充：Muticloud，多云，是指在单个异构架构中使用多个[云计算](https://en.wikipedia.org/wiki/Cloud_computing)和[存储](https://en.wikipedia.org/wiki/Cloud_storage)服务
 * [Managed Kubernetes Inspection Tool (MKIT)](https://github.com/darkbitio/mkit) ⚠️ Archived - 可提供查询和验证托管Kubernetes群集对象以及群集内运行的工作负载/资源的几种与安全性相关的常见设置
@@ -133,18 +133,18 @@ COMSEC, Communications Security, 通讯安全
 
 ### 模糊测试（Fuzzing）
 
-另请参阅： [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,918 | 🐛 12 | 📅 2024-04-03.
+另请参阅： [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing) ⭐ 5,919 | 🐛 12 | 📅 2024-04-03.
 
 * [FuzzBench](https://google.github.io/fuzzbench/) -  用于根据Google规模的各种实际基准来评估模糊测试器的一项免费服务
 
 ### 策略执行
 
-* [Tang](https://github.com/latchset/tang) ⭐ 739 | 🐛 42 | 🌐 C | 📅 2025-03-06 - 用于将数据绑定到网络状态的服务器。只有当客户端位于特定的（安全的）网络上时才向客户端提供数据
+* [Tang](https://github.com/latchset/tang) ⭐ 740 | 🐛 42 | 🌐 C | 📅 2025-03-06 - 用于将数据绑定到网络状态的服务器。只有当客户端位于特定的（安全的）网络上时才向客户端提供数据
 * [OpenPolicyAgent](https://www.openpolicyagent.org/)  - 用于跨云原生环境进行统一策略控制的一套工具集和框架
 
 ## 蜜罐
 
-另请参阅：[awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,576 | 🐛 30 | 🌐 Python | 📅 2026-06-01.
+另请参阅：[awesome-honeypots](https://github.com/paralax/awesome-honeypots) ⭐ 10,579 | 🐛 30 | 🌐 Python | 📅 2026-06-01.
 
 * [CanaryTokens](https://github.com/thinkst/canarytokens) ⭐ 2,172 | 🐛 6 | 🌐 Python | 📅 2026-10-01 - 可以自承载的Honey Token生成器及报告模版，演示版本可查看：[CanaryTokens.org](https://canarytokens.org/).
   * 补充，Honey Token：对蜜罐概念的一种发展，是一种数字化的实体，使得蜜罐不再局限于硬件设备。任何黑客感兴趣信息的伪造都可成为蜜罐\[3]。例如，一串银行卡密码、一个名为“财务报表”的Excel表格等
@@ -185,7 +185,7 @@ COMSEC, Communications Security, 通讯安全
 
 ## 事件响应工具
 
-另请参阅：[awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,426 | 🐛 88 | 📅 2026-07-15.
+另请参阅：[awesome-incident-response](https://github.com/meirwah/awesome-incident-response) ⭐ 9,427 | 🐛 88 | 📅 2026-07-15.
 
 * [LogonTracer](https://github.com/JPCERTCC/LogonTracer) ⭐ 3,283 | 🐛 22 | 🌐 Python | 📅 2026-08-02 - 可用于可视化分析Windows事件日志来调查恶意的Windows登录
 * [aws\_ir](https://github.com/ThreatResponse/aws_ir) ⭐ 342 | 🐛 14 | 🌐 Python | 📅 2021-07-23 - 通过零信任安全假设来自动化执行事件响应的工具
@@ -318,7 +318,7 @@ Security Information and Event Management (SIEM)
 
 Service and performance monitoring
 
-另请参阅：[awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) ⭐ 35,318 | 🐛 0 | 📅 2026-09-17.
+另请参阅：[awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring) ⭐ 35,319 | 🐛 0 | 📅 2026-09-17.
 
 * [osquery](https://github.com/facebook/osquery) ⭐ 23,605 | 🐛 578 | 🌐 C++ | 📅 2026-10-02 - 一个适用于macOS、Windows和Linux的操作系统插装框架，其将操作系统公开为高性能关系数据库，可以使用类似sql的语法进行查询
 * [Icinga](https://icinga.com/) - 基于Nagios的模块化重新设计，带有可插拔的用户界面以及一组扩展出的数据连接器，收集器和报告工具
@@ -348,7 +348,7 @@ Threat hunting，也被称为*hunt teaming*和*threat detection*。
 
 Threat intelligence
 
-另请参阅：[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,693 | 🐛 143 | 📅 2026-05-31.
+另请参阅：[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) ⭐ 10,694 | 🐛 143 | 📅 2026-05-31.
 
 * [Viper](https://github.com/viper-framework/viper) ⚠️ Archived - 二进制分析和管理框架，可轻松组织恶意软件和利用样本
 * [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) ⚠️ Archived - 该工具通过被动映射，计算和报告ICS / SCADA网络拓扑和端点，提供IP网络对工业控制系统（ICS）以及监督控制和数据采集（SCADA）的态势感知
@@ -366,7 +366,7 @@ Threat intelligence
 
 Tor Onion service defenses
 
-另请参阅：[awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 509 | 🐛 1 | 📅 2026-09-23.
+另请参阅：[awesome-tor](https://github.com/ajvb/awesome-tor) ⭐ 510 | 🐛 1 | 📅 2026-09-23.
 
 * [Vanguards](https://github.com/mikeperry-tor/vanguards) ⭐ 247 | 🐛 30 | 🌐 Python | 📅 2024-07-06 - 用于在Onion 3版本防护并发现攻击缓解脚本（打算最终包含在Tor核心中）
 * [OnionBalance](https://onionbalance.readthedocs.io/) - 该工具用于提供Tor网络代理的负载平衡，同时通过消除单个故障点使Onion服务更具弹性和可靠性

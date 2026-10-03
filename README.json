@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "USArmyResearchLab",
                 "repo": "Dshell",
-                "stars": 5496,
+                "stars": 5497,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -283,11 +283,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T01:23:12Z",
-            "open_issues": 868,
+            "last_commit": "2026-10-03T04:09:04Z",
+            "open_issues": 866,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19480,
+            "stars": 19482,
             "topics": [
               "containers",
               "docker",
@@ -316,7 +316,7 @@
             "open_issues": 391,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14915,
+            "stars": 14917,
             "topics": [
               "aws",
               "azure",
@@ -410,7 +410,7 @@
         {
           "node_type": "item",
           "title": "另请参阅：awesome-devsecops",
-          "description": null,
+          "description": "devsecops/awesome-devsecops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -511,7 +511,7 @@
             {
               "node_type": "item",
               "title": "另请参阅： Awesome-Fuzzing",
-              "description": ".",
+              "description": "secfigo/Awesome-Fuzzing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -524,7 +524,7 @@
                 "open_issues": 12,
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
-                "stars": 5918,
+                "stars": 5919,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -558,7 +558,7 @@
                 "open_issues": 42,
                 "owner": "latchset",
                 "repo": "tang",
-                "stars": 739,
+                "stars": 740,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -577,7 +577,7 @@
         {
           "node_type": "item",
           "title": "另请参阅：awesome-honeypots",
-          "description": ".",
+          "description": "paralax/awesome-honeypots",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -590,7 +590,7 @@
             "open_issues": 30,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10576,
+            "stars": 10579,
             "topics": [
               "awesome",
               "awesome-list",
@@ -659,7 +659,7 @@
         {
           "node_type": "item",
           "title": "另请参阅：awesome-incident-response",
-          "description": ".",
+          "description": "meirwah/awesome-incident-response",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -672,7 +672,7 @@
             "open_issues": 88,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9426,
+            "stars": 9427,
             "topics": [
               "awesome",
               "awesome-list",
@@ -978,7 +978,7 @@
             {
               "node_type": "item",
               "title": "另请参阅awesome-pentest § Social Engineering Tools",
-              "description": null,
+              "description": "fabacab/awesome-pentest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1370,7 +1370,7 @@
             {
               "node_type": "item",
               "title": "另请参阅：awesome-pcaptools",
-              "description": ".",
+              "description": "caesar0301/awesome-pcaptools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1628,7 +1628,7 @@
             {
               "node_type": "item",
               "title": "另请参阅：awesome-sysadmin#monitoring",
-              "description": ".",
+              "description": "awesome-foss/awesome-sysadmin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1641,7 +1641,7 @@
                 "open_issues": 0,
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 35318,
+                "stars": 35319,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1693,7 +1693,7 @@
             {
               "node_type": "item",
               "title": "另请参阅：awesome-threat-detection",
-              "description": ".",
+              "description": "0x4D31/awesome-threat-detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1950,7 +1950,7 @@
         {
           "node_type": "item",
           "title": "另请参阅：awesome-threat-intelligence",
-          "description": ".",
+          "description": "hslatman/awesome-threat-intelligence",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1963,7 +1963,7 @@
             "open_issues": 143,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10693,
+            "stars": 10694,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2164,7 +2164,7 @@
         {
           "node_type": "item",
           "title": "另请参阅：awesome-tor",
-          "description": ".",
+          "description": "ajvb/awesome-tor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2177,7 +2177,7 @@
             "open_issues": 1,
             "owner": "ajvb",
             "repo": "awesome-tor",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2457,7 +2457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:23:55.802Z",
+    "last_updated": "2026-10-03T04:42:42.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "网络安全 · 攻防对抗 · 蓝队清单，中文版",
