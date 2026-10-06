@@ -39,7 +39,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-25T23:09:10Z",
-                "open_issues": 169,
+                "open_issues": 170,
                 "owner": "latchset",
                 "repo": "clevis",
                 "stars": 1271,
@@ -136,7 +136,7 @@
                 "open_issues": 68,
                 "owner": "oasis-open",
                 "repo": "cti-python-stix2",
-                "stars": 438,
+                "stars": 439,
                 "topics": [
                   "cti",
                   "cyber-threat-intelligence",
@@ -283,11 +283,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T02:27:42Z",
-            "open_issues": 883,
+            "last_commit": "2026-10-06T10:58:27Z",
+            "open_issues": 877,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19556,
+            "stars": 19563,
             "topics": [
               "containers",
               "docker",
@@ -312,11 +312,11 @@
             "id": 66474729,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T14:57:43Z",
-            "open_issues": 417,
+            "last_commit": "2026-10-06T10:58:56Z",
+            "open_issues": 416,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14960,
+            "stars": 14964,
             "topics": [
               "aws",
               "azure",
@@ -358,7 +358,7 @@
             "open_issues": 297,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7832,
+            "stars": 7833,
             "topics": [
               "auditing",
               "aws",
@@ -590,7 +590,7 @@
             "open_issues": 30,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10582,
+            "stars": 10583,
             "topics": [
               "awesome",
               "awesome-list",
@@ -613,7 +613,7 @@
             "id": 39949815,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T01:14:59Z",
+            "last_commit": "2026-10-06T10:27:22Z",
             "open_issues": 6,
             "owner": "thinkst",
             "repo": "canarytokens",
@@ -669,10 +669,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
-            "open_issues": 88,
+            "open_issues": 87,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9434,
+            "stars": 9433,
             "topics": [
               "awesome",
               "awesome-list",
@@ -702,7 +702,7 @@
             "open_issues": 22,
             "owner": "JPCERTCC",
             "repo": "LogonTracer",
-            "stars": 3284,
+            "stars": 3283,
             "topics": [
               "active-directory",
               "blueteam",
@@ -776,7 +776,7 @@
                 "open_issues": 46,
                 "owner": "DefensePointSecurity",
                 "repo": "threat_note",
-                "stars": 433,
+                "stars": 432,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -962,7 +962,7 @@
             "open_issues": 96,
             "owner": "AltraMayor",
             "repo": "gatekeeper",
-            "stars": 1647,
+            "stars": 1648,
             "topics": [
               "anti-ddos",
               "ddos",
@@ -991,7 +991,7 @@
                 "open_issues": 0,
                 "owner": "fabacab",
                 "repo": "awesome-pentest",
-                "stars": 280,
+                "stars": 279,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1343,7 +1343,7 @@
                 "open_issues": 121,
                 "owner": "ossec",
                 "repo": "ossec-hids",
-                "stars": 5060,
+                "stars": 5061,
                 "topics": [
                   "compliance",
                   "file-integrity-management",
@@ -1400,11 +1400,11 @@
                 "id": 27561102,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T22:23:32Z",
+                "last_commit": "2026-10-06T09:01:19Z",
                 "open_issues": 37,
                 "owner": "stamparm",
                 "repo": "maltrail",
-                "stars": 8618,
+                "stars": 8619,
                 "topics": [
                   "attack-detection",
                   "intrusion-detection",
@@ -1434,7 +1434,7 @@
                 "open_issues": 39,
                 "owner": "arkime",
                 "repo": "arkime",
-                "stars": 7522,
+                "stars": 7523,
                 "topics": [
                   "big-data",
                   "c",
@@ -1481,7 +1481,7 @@
                 "id": 932314,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-05T23:08:04Z",
+                "last_commit": "2026-10-06T09:46:03Z",
                 "open_issues": 0,
                 "owner": "tenzir",
                 "repo": "tenzir",
@@ -1641,7 +1641,7 @@
                 "open_issues": 0,
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 35336,
+                "stars": 35340,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1669,10 +1669,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T21:25:46Z",
-                "open_issues": 579,
+                "open_issues": 575,
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23613,
+                "stars": 23615,
                 "topics": [
                   "hacktoberfest",
                   "intrusion-detection",
@@ -1706,7 +1706,7 @@
                 "open_issues": 60,
                 "owner": "0x4D31",
                 "repo": "awesome-threat-detection",
-                "stars": 4740,
+                "stars": 4739,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1735,7 +1735,7 @@
                 "open_issues": 190,
                 "owner": "google",
                 "repo": "grr",
-                "stars": 5088,
+                "stars": 5087,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -1791,7 +1791,7 @@
                 "open_issues": 14,
                 "owner": "sans-blue-team",
                 "repo": "DeepBlueCLI",
-                "stars": 2434,
+                "stars": 2436,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -1842,7 +1842,7 @@
                 "open_issues": 64,
                 "owner": "Invoke-IR",
                 "repo": "PowerForensics",
-                "stars": 1444,
+                "stars": 1443,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -1863,7 +1863,7 @@
                 "open_issues": 2,
                 "owner": "mattifestation",
                 "repo": "CimSweep",
-                "stars": 656,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -1989,7 +1989,7 @@
             "open_issues": 58,
             "owner": "viper-framework",
             "repo": "viper",
-            "stars": 1561,
+            "stars": 1560,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:36.219Z"
@@ -2338,7 +2338,7 @@
             "open_issues": 12,
             "owner": "hardentools",
             "repo": "hardentools",
-            "stars": 3110,
+            "stars": 3109,
             "topics": [
               "hardening",
               "security",
@@ -2457,7 +2457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T02:29:00.280Z",
+    "last_updated": "2026-10-06T11:00:48.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "网络安全 · 攻防对抗 · 蓝队清单，中文版",
