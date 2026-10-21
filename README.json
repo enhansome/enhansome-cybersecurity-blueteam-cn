@@ -283,11 +283,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T01:10:54Z",
-            "open_issues": 988,
+            "last_commit": "2026-10-21T00:47:25Z",
+            "open_issues": 990,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19722,
+            "stars": 19728,
             "topics": [
               "containers",
               "docker",
@@ -307,16 +307,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.",
+            "description": "This repo hosts Prowler OSS (CLI and Local Server). Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment for Humans and AI Agents.",
             "homepage": "https://prowler.com",
             "id": 66474729,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T20:05:28Z",
-            "open_issues": 487,
+            "last_commit": "2026-10-20T16:51:38Z",
+            "open_issues": 486,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 15067,
+            "stars": 15076,
             "topics": [
               "aws",
               "azure",
@@ -358,7 +358,7 @@
             "open_issues": 297,
             "owner": "nccgroup",
             "repo": "ScoutSuite",
-            "stars": 7856,
+            "stars": 7855,
             "topics": [
               "auditing",
               "aws",
@@ -470,7 +470,7 @@
             "open_issues": 61,
             "owner": "quay",
             "repo": "clair",
-            "stars": 11078,
+            "stars": 11080,
             "topics": [
               "clair",
               "containers",
@@ -501,7 +501,7 @@
             "open_issues": 55,
             "owner": "StackExchange",
             "repo": "blackbox",
-            "stars": 6766,
+            "stars": 6767,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:36.219Z"
@@ -524,7 +524,7 @@
                 "open_issues": 12,
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
-                "stars": 5926,
+                "stars": 5927,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -587,10 +587,10 @@
             "language": "Python",
             "license": "Artistic-2.0",
             "last_commit": "2026-06-01T14:15:45Z",
-            "open_issues": 30,
+            "open_issues": 28,
             "owner": "paralax",
             "repo": "awesome-honeypots",
-            "stars": 10608,
+            "stars": 10609,
             "topics": [
               "awesome",
               "awesome-list",
@@ -613,11 +613,11 @@
             "id": 39949815,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T12:54:14Z",
+            "last_commit": "2026-10-20T21:29:52Z",
             "open_issues": 6,
             "owner": "thinkst",
             "repo": "canarytokens",
-            "stars": 2185,
+            "stars": 2186,
             "topics": []
           },
           "first_seen": "2026-08-28T06:17:36.219Z"
@@ -672,7 +672,7 @@
             "open_issues": 96,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9465,
+            "stars": 9469,
             "topics": [
               "awesome",
               "awesome-list",
@@ -755,7 +755,7 @@
                 "open_issues": 13,
                 "owner": "certsocietegenerale",
                 "repo": "FIR",
-                "stars": 2046,
+                "stars": 2047,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -937,7 +937,7 @@
             "open_issues": 41,
             "owner": "jtesta",
             "repo": "ssh-audit",
-            "stars": 4327,
+            "stars": 4326,
             "topics": [
               "auditing",
               "security",
@@ -962,7 +962,7 @@
             "open_issues": 97,
             "owner": "AltraMayor",
             "repo": "gatekeeper",
-            "stars": 1650,
+            "stars": 1649,
             "topics": [
               "anti-ddos",
               "ddos",
@@ -1020,7 +1020,7 @@
                 "open_issues": 2,
                 "owner": "CrimsonForge-io",
                 "repo": "king-phisher",
-                "stars": 2602,
+                "stars": 2603,
                 "topics": [
                   "king-phisher",
                   "phishing",
@@ -1073,7 +1073,7 @@
                 "open_issues": 18,
                 "owner": "SSLMate",
                 "repo": "certspotter",
-                "stars": 1184,
+                "stars": 1186,
                 "topics": [
                   "certificate-transparency",
                   "pki",
@@ -1142,7 +1142,7 @@
                 "open_issues": 13,
                 "owner": "serain",
                 "repo": "mailspoof",
-                "stars": 137,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -1339,8 +1339,8 @@
                 "id": 12901559,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-18T20:09:54Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-20T20:50:21Z",
+                "open_issues": 40,
                 "owner": "ossec",
                 "repo": "ossec-hids",
                 "stars": 5067,
@@ -1400,11 +1400,11 @@
                 "id": 27561102,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-19T15:50:58Z",
+                "last_commit": "2026-10-20T22:08:16Z",
                 "open_issues": 37,
                 "owner": "stamparm",
                 "repo": "maltrail",
-                "stars": 8630,
+                "stars": 8635,
                 "topics": [
                   "attack-detection",
                   "intrusion-detection",
@@ -1430,11 +1430,11 @@
                 "id": 4927517,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T22:56:38Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-20T22:32:15Z",
+                "open_issues": 42,
                 "owner": "arkime",
                 "repo": "arkime",
-                "stars": 7536,
+                "stars": 7540,
                 "topics": [
                   "big-data",
                   "c",
@@ -1481,7 +1481,7 @@
                 "id": 932314,
                 "language": "C++",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-19T21:17:20Z",
+                "last_commit": "2026-10-20T18:06:12Z",
                 "open_issues": 0,
                 "owner": "tenzir",
                 "repo": "tenzir",
@@ -1641,7 +1641,7 @@
                 "open_issues": 0,
                 "owner": "awesome-foss",
                 "repo": "awesome-sysadmin",
-                "stars": 35451,
+                "stars": 35456,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1668,11 +1668,11 @@
                 "id": 22394357,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T16:57:10Z",
-                "open_issues": 588,
+                "last_commit": "2026-10-20T19:19:47Z",
+                "open_issues": 587,
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23655,
+                "stars": 23656,
                 "topics": [
                   "hacktoberfest",
                   "intrusion-detection",
@@ -1706,7 +1706,7 @@
                 "open_issues": 61,
                 "owner": "0x4D31",
                 "repo": "awesome-threat-detection",
-                "stars": 4759,
+                "stars": 4761,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1735,7 +1735,7 @@
                 "open_issues": 190,
                 "owner": "google",
                 "repo": "grr",
-                "stars": 5092,
+                "stars": 5096,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:17:36.219Z"
@@ -1756,7 +1756,7 @@
                 "open_issues": 60,
                 "owner": "Cyb3rWard0g",
                 "repo": "HELK",
-                "stars": 3931,
+                "stars": 3932,
                 "topics": [
                   "docker",
                   "dockerhub",
@@ -1960,10 +1960,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10749,
+            "stars": 10753,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2043,7 +2043,7 @@
             "open_issues": 15,
             "owner": "pedramamini",
             "repo": "ThreatIngestor",
-            "stars": 932,
+            "stars": 933,
             "topics": [
               "dfir",
               "fraud-detection",
@@ -2457,7 +2457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:13:59.658Z",
+    "last_updated": "2026-10-21T00:52:24.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "网络安全 · 攻防对抗 · 蓝队清单，中文版",
@@ -2469,7 +2469,7 @@
       "open_issues": 0,
       "owner": "satan1a",
       "repo": "awesome-cybersecurity-blueteam-cn",
-      "stars": 976,
+      "stars": 975,
       "topics": [
         "attack-defense",
         "awesome",
